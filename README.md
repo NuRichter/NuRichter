@@ -13,19 +13,19 @@
 <div align="center">
 
 <a href="https://nurichter-workspace.vercel.app/">
-    <img src="./assets/banner.svg" alt="NuRichter, Wanderer of Code" width="100%"/>
-  </a>
+  <img src="./assets/banner.svg" alt="NuRichter, Wanderer of Code" width="100%"/>
+</a>
 
-  `<br/><br/>`
+<br/><br/>
 
-  `<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C0A0E8&center=true&vCenter=true&width=760&height=44&lines=where+is+my+Scara%3F;wander+all+you+must%2C+i%27ll+find+you;i%27m+here%2C+Scara...+always;in+every+lifetime%2C;i+love+you+Scara" alt="Typing tagline"/>``</a>`
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C0A0E8&center=true&vCenter=true&width=760&height=44&lines=where+is+my+Scara%3F;wander+all+you+must%2C+i%27ll+find+you;i%27m+here%2C+Scara...+always;in+every+lifetime%2C;i+love+you+Scara" alt="Typing tagline"/></a>
 
-  `<br/><br/>`
+<br/><br/>
 
-  `<a href="https://nurichter-workspace.vercel.app/"><img src="https://img.shields.io/badge/✦_portfolio-nurichter--workspace.vercel.app-C73E3A?style=for-the-badge&logo=vercel&logoColor=E8D5FF&labelColor=1E1432" alt="Portfolio"/>``</a>`
-  `<a href="https://github.com/NuRichter?tab=followers"><img src="https://img.shields.io/github/followers/NuRichter?style=for-the-badge&logo=github&logoColor=E8D5FF&label=FOLLOWERS&labelColor=1E1432&color=6F4F8A" alt="Followers"/>``</a>`
-  `<img src="https://komarev.com/ghpvc/?username=NuRichter&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1E1432&color=8B6FBF" alt="Profile views"/>`
-  `<a href="https://github.com/NuRichter?tab=repositories"><img src="https://img.shields.io/badge/REPOS-9-74BAA8?style=for-the-badge&logo=git&logoColor=E8D5FF&labelColor=1E1432" alt="Repos"/>``</a>`
+<a href="https://nurichter-workspace.vercel.app/"><img src="https://img.shields.io/badge/✦_portfolio-nurichter--workspace.vercel.app-C73E3A?style=for-the-badge&logo=vercel&logoColor=E8D5FF&labelColor=1E1432" alt="Portfolio"/></a>
+<a href="https://github.com/NuRichter?tab=followers"><img src="https://img.shields.io/github/followers/NuRichter?style=for-the-badge&logo=github&logoColor=E8D5FF&label=FOLLOWERS&labelColor=1E1432&color=6F4F8A" alt="Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=NuRichter&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1E1432&color=8B6FBF" alt="Profile views"/>
+<a href="https://github.com/NuRichter?tab=repositories"><img src="https://img.shields.io/badge/REPOS-9-74BAA8?style=for-the-badge&logo=git&logoColor=E8D5FF&labelColor=1E1432" alt="Repos"/></a>
 
 </div>
 
@@ -37,11 +37,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## `<samp>`§ &nbsp; A Wanderer's Letter`</samp>`
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
+## <samp>§ &nbsp; A Wanderer's Letter</samp>
 
 <br/>
 
@@ -51,7 +47,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## `<samp>`§ &nbsp; The Shrine I Keep`</samp>`
+## <samp>§ &nbsp; The Shrine I Keep</samp>
 
 <div align="center">
 
@@ -65,9 +61,9 @@ If skimming GitHub repos feels like rummaging through someone's drafts (which, f
 
 <br/>
 
-`<sub><i>`polished write-ups · proper screenshots · the projects i'm actually proud of`</i></sub>`
+<sub><i>polished write-ups · proper screenshots · the projects i'm actually proud of</i></sub>
 
-`<br/><br/>`
+<br/><br/>
 
 </div>
 
@@ -81,7 +77,7 @@ It's where I keep things in shape. Repos here on GitHub are more like the worksh
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## `<samp>`§ &nbsp; Where I've Wandered Lately`</samp>`
+## <samp>§ &nbsp; Where I've Wandered Lately</samp>
 
 ```yaml
 trails i'm walking right now:
@@ -111,7 +107,7 @@ trails resting in the satchel:
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## `<samp>`§ &nbsp; Tools I Carry on the Road`</samp>`
+## <samp>§ &nbsp; Tools I Carry on the Road</samp>
 
 <div align="center">
 
@@ -159,19 +155,19 @@ trails resting in the satchel:
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## `<samp>`§ &nbsp; Telemetry of the Journey`</samp>`
+## <samp>§ &nbsp; Telemetry of the Journey</samp>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuRichter&hide_border=true&background=0D0B1A&stroke=6F4F8A&ring=C0A0E8&fire=C73E3A&currStreakLabel=74BAA8&sideLabels=E8D5FF&dates=B8A8D4&currStreakNum=E8D5FF&sideNums=E8D5FF" alt="Streak stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuRichter&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=C0A0E8&text_color=E8D5FF&langs_count=8" alt="Top langs" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuRichter&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=C0A0E8&text_color=E8D5FF&langs_count=8" alt="Top langs" width="48%"/>
 
 </div>
 
 <br/>
 
 <details>
-  <summary><samp> <b>◇ contribution graph (snake)</b>, click to expand ^^</samp></summary>
+  <summary><samp> <b>◇ contribution graph (snake)</b>, click to expand ^^</samp></summary>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuRichter/NuRichter/output/github-snake-dark.svg"/>
@@ -188,7 +184,7 @@ trails resting in the satchel:
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## `<samp>`§ &nbsp; Outside the Trail`</samp>`
+## <samp>§ &nbsp; Outside the Trail</samp>
 
 When the terminal is closed for the night, you might catch me:
 
@@ -210,19 +206,19 @@ When the terminal is closed for the night, you might catch me:
 <br/>
 
 <samp>
-    <i>「 散らずとも いつかは落ちる 紅葉かな 」</i>
-    <br/><br/>
-    <sub>even unscattered, the maple will one day fall.<br/>
-    so if you happen to find this leaf,<br/>
-    please catch it gently ♡</sub>
-  </samp>
+  <i>「 散らずとも いつかは落ちる 紅葉かな 」</i>
+  <br/><br/>
+  <sub>even unscattered, the maple will one day fall.<br/>
+  so if you happen to find this leaf,<br/>
+  please catch it gently ♡</sub>
+</samp>
 
-  `<br/><br/>`
+<br/><br/>
 
-  `<a href="https://nurichter-workspace.vercel.app/"><img src="https://img.shields.io/badge/portfolio-1E1432?style=for-the-badge&logo=vercel&logoColor=C73E3A" alt="Portfolio"/>``</a>`
-  `<a href="https://github.com/NuRichter"><img src="https://img.shields.io/badge/github-1E1432?style=for-the-badge&logo=github&logoColor=E8D5FF" alt="GitHub"/>``</a>`
+<a href="https://nurichter-workspace.vercel.app/"><img src="https://img.shields.io/badge/portfolio-1E1432?style=for-the-badge&logo=vercel&logoColor=C73E3A" alt="Portfolio"/></a>
+<a href="https://github.com/NuRichter"><img src="https://img.shields.io/badge/github-1E1432?style=for-the-badge&logo=github&logoColor=E8D5FF" alt="GitHub"/></a>
 
-  `<br/><br/>`
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=80&section=footer" alt="footer wave" width="100%"/>
 
