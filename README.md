@@ -18,7 +18,7 @@
 
   `<br/><br/>`
 
-  `<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C0A0E8&center=true&vCenter=true&width=760&height=44&lines=where+is+my+Scara%3F;wander+all+you+must%2C+i%27ll+find+you;i%27m+here%2C+Scara...+always;in+every+lifetime%2C;+i+love+you%2C+Scara" alt="Typing tagline"/>``</a>`
+  `<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C0A0E8&center=true&vCenter=true&width=760&height=44&lines=where+is+my+Scara%3F;wander+all+you+must%2C+i%27ll+find+you;i%27m+here%2C+Scara...+always;in+every+lifetime%2C;i+love+you+Scara" alt="Typing tagline"/>``</a>`
 
   `<br/><br/>`
 
