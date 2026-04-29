@@ -18,7 +18,7 @@
 
   <br/><br/>
 
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C0A0E8&center=true&vCenter=true&width=760&height=44&lines=by+the+end%2C+where%27s+my+Scara+%3F+%3A3;informatics+%40+UPN+Veteran+Jatim;leaving+notes+for+a+wanderer+i+haven%27t+found;%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC+%C2%B7+the+wind+has+risen" alt="Typing tagline"/></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C0A0E8&center=true&vCenter=true&width=760&height=44&lines=by+the+end%2C+where%27s+my+Scara+%3F+%3A3;informatics+undergrad%2C+sleep-deprived+%5E%5E;leaving+notes+for+a+wanderer+i+haven%27t+found;%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC+%C2%B7+the+wind+has+risen" alt="Typing tagline"/></a>
 
   <br/><br/>
 
@@ -44,7 +44,7 @@
 > *"By the end, where's my Scara?"*  
 > ...my bio asks the wind every time I refresh ^^
 
-Hi ! I'm **NuRichter**, an Informatics student at **UPN "Veteran" Jawa Timur** (semester 4, perpetually behind on sleep). My bio is asking after a Wanderer with a red hat and a worse temper, and honestly that part of the joke is only halfway a joke :3
+Hi ! I'm **NuRichter**, just a wanderer of code from somewhere on the archipelago (informatics undergrad, semester 4, perpetually behind on sleep). My bio is asking after a Wanderer with a red hat and a worse temper, and honestly that part of the joke is only halfway a joke :3
 
 I like to think of every repo I push as a folded note left at a wind shrine. Some are loud and technical (ML pipelines for offshore wells, scrapers that hunt 10,000 academic PDFs, an Electron upscaler GUI). Some are softer (cosplay edits, dotfiles colour-matched at 3 AM, a kawaii Arch distro that exists mostly because it makes me happy). All of them are postcards to a Wanderer i haven't met yet.
 
