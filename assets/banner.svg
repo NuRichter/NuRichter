@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="NuRichter — Wanderer of Code">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0B1A"/>
+      <stop offset="35%" stop-color="#1E1432"/>
+      <stop offset="65%" stop-color="#3A1A2E"/>
+      <stop offset="100%" stop-color="#1A0E1F"/>
+    </linearGradient>
+    <radialGradient id="purpleHaze" cx="22%" cy="40%" r="45%">
+      <stop offset="0%" stop-color="#8B6FBF" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#6F4F8A" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#6F4F8A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="crimsonHaze" cx="80%" cy="65%" r="40%">
+      <stop offset="0%" stop-color="#D85A56" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#A04948" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#A04948" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="anemoGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#74BAA8" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#74BAA8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8D5FF"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFD4D0"/>
+    </linearGradient>
+    <linearGradient id="windStreak" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#74BAA8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#9DD5C5" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#74BAA8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="windStreak2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C0A0E8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#D4B5FF" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#C0A0E8" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Single inline maple leaf path (centered around origin, intrinsic size ~40px) -->
+    <g id="leaf">
+      <path d="M0,-18 C-1,-12 -3,-9 -6,-7 L-12,-12 L-10,-5 L-15,-3 L-10,0 L-12,5 L-7,4 L-9,9 L-3,7 L-1,12 L0,15 L0,22"
+            fill="none" stroke="currentColor" stroke-width="0.5" opacity="0.4"/>
+      <path d="M0,-20
+               L 3,-10 L 9,-13 L 7,-6 L 13,-4 L 9,1 L 14,5 L 7,7 L 9,12 L 3,10 L 1,16 L 0,11 L -1,16 L -3,10 L -9,12 L -7,7 L -14,5 L -9,1 L -13,-4 L -7,-6 L -9,-13 L -3,-10 Z"
+            fill="currentColor"/>
+      <path d="M0,11 L0,22" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+    </g>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Base background layers -->
+  <rect width="1280" height="360" fill="url(#bgGrad)"/>
+  <rect width="1280" height="360" fill="url(#purpleHaze)"/>
+  <rect width="1280" height="360" fill="url(#crimsonHaze)"/>
+
+  <!-- Subtle horizontal grid -->
+  <g opacity="0.04" stroke="#E8D5FF" stroke-width="0.5">
+    <line x1="0" y1="60" x2="1280" y2="60"/>
+    <line x1="0" y1="120" x2="1280" y2="120"/>
+    <line x1="0" y1="180" x2="1280" y2="180"/>
+    <line x1="0" y1="240" x2="1280" y2="240"/>
+    <line x1="0" y1="300" x2="1280" y2="300"/>
+  </g>
+
+  <!-- Wind streaks (Anemo trails) -->
+  <g opacity="0.7">
+    <path d="M -50 90 Q 200 80 450 95 T 900 100" stroke="url(#windStreak)" stroke-width="1.2" fill="none" filter="url(#softGlow)"/>
+    <path d="M 200 280 Q 500 270 800 285 T 1330 290" stroke="url(#windStreak2)" stroke-width="1" fill="none" filter="url(#softGlow)"/>
+    <path d="M -50 200 Q 300 195 600 205 T 1330 210" stroke="url(#windStreak)" stroke-width="0.8" fill="none" opacity="0.5"/>
+  </g>
+
+  <!-- Soft Anemo glows -->
+  <ellipse cx="180" cy="180" rx="120" ry="120" fill="url(#anemoGlow)" opacity="0.18"/>
+  <ellipse cx="1100" cy="180" rx="100" ry="100" fill="url(#anemoGlow)" opacity="0.12"/>
+
+  <!-- Decorative kanji 楓 (Kaede - Maple, Kazuha) - far left -->
+  <text x="120" y="240" font-family="'Noto Serif CJK JP','Noto Serif JP','Yu Mincho',serif" font-size="200" fill="#C73E3A" opacity="0.10" font-weight="700" text-anchor="middle">楓</text>
+
+  <!-- Decorative kanji 散 (San - Scatter, Wanderer) - far right -->
+  <text x="1160" y="240" font-family="'Noto Serif CJK JP','Noto Serif JP','Yu Mincho',serif" font-size="200" fill="#8B6FBF" opacity="0.10" font-weight="700" text-anchor="middle">散</text>
+
+  <!-- Maple leaves scattered (corners, away from text) -->
+  <g color="#C73E3A" opacity="0.85"><use href="#leaf" transform="translate(70 65) rotate(20) scale(0.85)"/></g>
+  <g color="#A04948" opacity="0.6"><use href="#leaf" transform="translate(1190 80) rotate(-30) scale(0.7)"/></g>
+  <g color="#D85A56" opacity="0.55"><use href="#leaf" transform="translate(1100 305) rotate(50) scale(0.5)"/></g>
+  <g color="#C73E3A" opacity="0.5"><use href="#leaf" transform="translate(60 310) rotate(-25) scale(0.55)"/></g>
+  <g color="#D85A56" opacity="0.4"><use href="#leaf" transform="translate(190 45) rotate(40) scale(0.35)"/></g>
+  <g color="#C73E3A" opacity="0.35"><use href="#leaf" transform="translate(1050 50) rotate(-50) scale(0.32)"/></g>
+  <g color="#D85A56" opacity="0.3"><use href="#leaf" transform="translate(150 320) rotate(15) scale(0.3)"/></g>
+  <g color="#A04948" opacity="0.35"><use href="#leaf" transform="translate(1015 320) rotate(-60) scale(0.35)"/></g>
+
+  <!-- Sparkles -->
+  <g fill="#C0A0E8" opacity="0.85">
+    <path d="M150,116 L151,120 L155,121 L151,122 L150,126 L149,122 L145,121 L149,120 Z" filter="url(#softGlow)"/>
+  </g>
+  <g fill="#E8D5FF" opacity="0.9">
+    <path d="M1180,55 L1181.2,60 L1186,61.25 L1181.2,62.5 L1180,67.5 L1178.8,62.5 L1174,61.25 L1178.8,60 Z" filter="url(#softGlow)"/>
+  </g>
+  <g fill="#D4B5FF" opacity="0.7">
+    <path d="M1100,177 L1100.7,180 L1103.5,180.75 L1100.7,181.5 L1100,184.5 L1099.3,181.5 L1096.5,180.75 L1099.3,180 Z"/>
+  </g>
+  <g fill="#C0A0E8" opacity="0.6">
+    <path d="M50,198 L50.5,200 L52.5,200.5 L50.5,201 L50,203 L49.5,201 L47.5,200.5 L49.5,200 Z"/>
+  </g>
+  <g fill="#D4B5FF" opacity="0.7">
+    <path d="M950,316 L950.85,319.5 L954.5,320.5 L950.85,321.5 L950,325 L949.15,321.5 L945.5,320.5 L949.15,319.5 Z"/>
+  </g>
+  <g fill="#E8D5FF" opacity="0.65">
+    <path d="M700,46 L700.5,48 L702.5,48.5 L700.5,49 L700,51 L699.5,49 L697.5,48.5 L699.5,48 Z"/>
+  </g>
+
+  <!-- Main title -->
+  <text x="640" y="170" font-family="'Cinzel','Trajan Pro','Times New Roman',serif" font-size="92" font-weight="600" fill="url(#titleGrad)" text-anchor="middle" letter-spacing="8" filter="url(#softGlow)">NuRichter</text>
+
+  <!-- Underline ornament -->
+  <g transform="translate(640 195)">
+    <line x1="-180" y1="0" x2="-30" y2="0" stroke="#C0A0E8" stroke-width="0.8" opacity="0.7"/>
+    <line x1="30" y1="0" x2="180" y2="0" stroke="#C0A0E8" stroke-width="0.8" opacity="0.7"/>
+    <circle cx="0" cy="0" r="2.5" fill="#74BAA8" opacity="0.95" filter="url(#softGlow)"/>
+    <circle cx="-22" cy="0" r="1.2" fill="#C0A0E8" opacity="0.7"/>
+    <circle cx="22" cy="0" r="1.2" fill="#C0A0E8" opacity="0.7"/>
+  </g>
+
+  <!-- Tagline: 3 segments with explicit x positions for reliable centered layout -->
+  <g font-family="'Inter','Helvetica Neue','Arial',sans-serif" font-size="20" font-weight="400" letter-spacing="6" opacity="0.95">
+    <text x="490" y="232" fill="#74BAA8" text-anchor="middle">WANDERER</text>
+    <text x="595" y="232" fill="#9DD5C5" text-anchor="middle">•</text>
+    <text x="640" y="232" fill="#FFD4D0" text-anchor="middle">OF</text>
+    <text x="685" y="232" fill="#9DD5C5" text-anchor="middle">•</text>
+    <text x="780" y="232" fill="#C0A0E8" text-anchor="middle">CODE</text>
+  </g>
+
+  <!-- Sub-tagline (Japanese poetic line) -->
+  <text x="640" y="268" font-family="'Noto Serif CJK JP','Noto Serif JP','Yu Mincho',serif" font-size="17" fill="#9DD5C5" text-anchor="middle" letter-spacing="6" opacity="0.78">
+    風立ちぬ ・ いざ生きめやも
+  </text>
+
+  <!-- Bottom meta -->
+  <text x="640" y="312" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#B8A8D4" opacity="0.7" text-anchor="middle" letter-spacing="2">
+    // INFORMATICS &#183; UPN VETERAN JATIM &#183; ML &#8226; SYSTEMS &#8226; AESTHETICS
+  </text>
+
+  <!-- Corner ornaments -->
+  <g stroke="#C0A0E8" stroke-width="1" fill="none" opacity="0.4">
+    <path d="M 20 20 L 20 50 M 20 20 L 50 20"/>
+    <path d="M 1260 20 L 1260 50 M 1260 20 L 1230 20"/>
+    <path d="M 20 340 L 20 310 M 20 340 L 50 340"/>
+    <path d="M 1260 340 L 1260 310 M 1260 340 L 1230 340"/>
+  </g>
+</svg>
