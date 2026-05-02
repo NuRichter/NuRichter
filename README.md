@@ -283,18 +283,30 @@ note: "adv" = can explain in a thesis defense ^^;
 <br/><br/>
 
 <!-- ┌──────────────────── ROW 3 · STREAK ───────────────────────────────────────────────────────────────┐ -->
-<img src="https://streak-stats.demolab.com?user=NuRichter&theme=midnight-purple&hide_border=false&border=1A1A2E&background=0D0B1A&stroke=C0A0E8&ring=C73E3A&fire=00FFBA&currStreakNum=00FFBA&currStreakLabel=C0A0E8&sideNums=C0A0E8&sideLabels=8B6FBF&dates=6F4F8A&excludeDaysLabel=6F4F8A"
+<img src="https://streak-stats.demolab.com?user=NuRichter&theme=midnight-purple&hide_border=false&border=1A1A2E&background=0D0B1A&stroke=C0A0E8&ring=C73E3A&fire=00FFBA&currStreakNum=00FFBA&currStreakLabel=C0A0E8&sideNums=C0A0E8&sideLabels=8B6FBF&dates=6F4F8A"
      alt="NuRichter · Streak Stats" width="62%" />
 
 <br/><br/>
 
-<!-- ┌──────────────────── ROW 4 · TROPHIES / ACHIEVEMENT BADGES ────────────────────────────────────────┐ -->
-<img src="https://github-profile-trophy.vercel.app/?username=NuRichter&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+<!-- ┌──────────────────── ROW 4 · ACHIEVEMENTS (lowlighter/metrics · auto-generated every 6h) ──────────┐ -->
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.achievements.svg"
+     alt="NuRichter · Achievements" width="100%" />
+
+<br/><br/>
+
+<!-- ┌──────────────────── ROW 4b · TROPHIES (rank=UNKNOWN shows all unearned slots too) ─────────────────┐ -->
+<img src="https://github-profile-trophy.vercel.app/?username=NuRichter&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN"
      alt="NuRichter · Trophies" width="100%" />
 
 <br/><br/>
 
-<!-- ┌──────────────────── ROW 5 · CONTRIBUTION CARTOGRAPHY LINE GRAPH ──────────────────────────────────┐ -->
+<!-- ┌──────────────────── ROW 5 · LANGUAGES DEEP (lowlighter/metrics · every 6h) ────────────────────────┐ -->
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.languages.svg"
+     alt="NuRichter · Languages" width="100%" />
+
+<br/><br/>
+
+<!-- ┌──────────────────── ROW 6 · CONTRIBUTION CARTOGRAPHY LINE GRAPH ──────────────────────────────────┐ -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuRichter&bg_color=0D0B1A&color=C0A0E8&line=00FFBA&point=C73E3A&area=true&area_color=00FFBA&hide_border=false&border_color=1A1A2E&title_color=00FFBA&custom_title=contribution+cartography+%C2%B7+where+the+wanderer+left+marks"
      alt="Contribution Cartography · where the wanderer left marks" width="100%" />
 
