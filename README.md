@@ -305,21 +305,18 @@ note: "adv" = can explain in a thesis defense ^^;
 
 <div align="center">
 
-<!-- ROW 1 · 3 stat cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NuRichter&theme=2077" height="165em" alt="Stats" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NuRichter&theme=2077" height="165em" alt="Top Languages by Repo" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NuRichter&theme=2077" height="165em" alt="Top Languages by Commit" />
+<!-- ROW 1 · Stats + Top Lang Repo + Top Lang Commit · forced side-by-side via table -->
+<table><tr>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NuRichter&theme=2077" alt="Stats" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NuRichter&theme=2077" alt="Top Languages by Repo" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NuRichter&theme=2077" alt="Top Languages by Commit" /></td>
+</tr></table>
 
-<br/><br/>
-
-<!-- ROW 2 · commit time + profile details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NuRichter&theme=2077&utcOffset=7" height="165em" alt="Commits (UTC+7.00)" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NuRichter&theme=2077" height="165em" alt="NuRichter · Profile Details" />
-
-<br/><br/>
+<!-- ROW 2 · Commit Time + Profile Details · forced side-by-side via table -->
+<table><tr>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NuRichter&theme=2077&utcOffset=7" alt="Commits (UTC+7.00)" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NuRichter&theme=2077" alt="NuRichter · Profile Details" /></td>
+</tr></table>
 
 <!-- ROW 3 · streak -->
 <img src="https://streak-stats.demolab.com?user=NuRichter&theme=midnight-purple&hide_border=false&border=1A1A2E&background=0D0B1A&stroke=C0A0E8&ring=C73E3A&fire=00FFBA&currStreakNum=00FFBA&currStreakLabel=C0A0E8&sideNums=C0A0E8&sideLabels=8B6FBF&dates=6F4F8A" alt="NuRichter · Streak Stats" width="62%" />
@@ -331,17 +328,12 @@ note: "adv" = can explain in a thesis defense ^^;
 
 <br/><br/>
 
-<!-- ROW 5 · achievements (lowlighter/metrics) -->
-<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.achievements.svg" alt="NuRichter · Achievements" width="100%" />
-
-<br/><br/>
-
-<!-- ROW 6 · languages deep (lowlighter/metrics) -->
+<!-- ROW 5 · languages deep (lowlighter/metrics) -->
 <img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.languages.svg" alt="NuRichter · Languages" width="100%" />
 
 <br/><br/>
 
-<!-- ROW 7 · contribution graph -->
+<!-- ROW 6 · contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuRichter&bg_color=0D0B1A&color=C0A0E8&line=00FFBA&point=C73E3A&area=true&area_color=00FFBA&hide_border=false&border_color=1A1A2E&title_color=00FFBA&custom_title=contribution+cartography+%C2%B7+where+the+wanderer+left+marks" alt="Contribution Cartography" width="100%" />
 
 </div>
