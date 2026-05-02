@@ -508,47 +508,43 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 <h3>· my boys · genshin + hsr ·</h3>
 
 <sub>✦ genshin impact · loves by priority ✦</sub><br/>
-<!-- ① -->
-<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Wanderer.png"  height="105" title="① Wanderer"/>
-<!-- ② -->
-<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Kazuha.png"    height="105" title="② Kazuha"/>
-<!-- ③ -->
-<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Gorou.png"     height="105" title="③ Gorou"/>
-<!-- ④ -->
-<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Venti.png"     height="105" title="④ Venti"/>
-<!-- ⑤ -->
-<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Liney.png"     height="105" title="⑤ Lyney"/>
-<!-- ⑥ -->
-<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Cyno.png"      height="105" title="⑥ Cyno"/>
-<!-- ⑦ -->
-<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Bennett.png"   height="105" title="⑦ Bennett"/>
-<!-- ⑧ VERIFY: ganti filename Lohen sesuai enka.network jika beda -->
-<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Lohen.png"     height="105" title="⑧ Lohen"/>
-<!-- ⑨ -->
-<img src="https://enka.network/ui/UI_Gacha_AvatarImg_PlayerBoy.png" height="105" title="⑨ Aether"/>
-<!-- ⑩ -->
-<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Freminet.png"  height="105" title="⑩ Freminet"/>
 
-<br/><br/>
+<!-- GENSHIN ROW 1 · ①–⑤ · via genshin.jmp.blue /card (portrait) -->
+<img src="https://genshin.jmp.blue/characters/wanderer/card"          height="105" title="① Wanderer"/><img src="https://genshin.jmp.blue/characters/kaedehara-kazuha/card"  height="105" title="② Kazuha"/><img src="https://genshin.jmp.blue/characters/gorou/card"              height="105" title="③ Gorou"/><img src="https://genshin.jmp.blue/characters/venti/card"              height="105" title="④ Venti"/><img src="https://genshin.jmp.blue/characters/lyney/card"              height="105" title="⑤ Lyney"/>
 
-<sub>✦ honkai: star rail · loves by priority ✦</sub><br/>
+<!-- GENSHIN ROW 2 · ⑥–⑨ (Lohen dihapus) -->
+<img src="https://genshin.jmp.blue/characters/cyno/card"              height="105" title="⑥ Cyno"/><img src="https://genshin.jmp.blue/characters/bennett/card"            height="105" title="⑦ Bennett"/><img src="https://genshin.jmp.blue/characters/aether/card"             height="105" title="⑧ Aether"/><img src="https://genshin.jmp.blue/characters/freminet/card"           height="105" title="⑨ Freminet"/>
+
+<br/>
+
+<sub>✦ honkai: star rail · 2026 ✦</sub><br/>
+
+<!-- HSR ROW 1 · ①–⑤ -->
 <!-- ① Sunday -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1313.png" height="105" title="① Sunday"/>
-<!-- ② Yanqing -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1209.png" height="105" title="② Yanqing"/>
-<!-- ③ Arlan -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1008.png" height="105" title="③ Arlan"/>
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1313.png" height="105" title="① Sunday"/><!--
+② Yanqing -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1209.png" height="105" title="② Yanqing"/><!--
+③ Arlan -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1008.png" height="105" title="③ Arlan"/><!--
+④ Jiaoqiu -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1309.png" height="105" title="④ Jiaoqiu"/><!--
+⑤ Aventurine -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1310.png" height="105" title="⑤ Aventurine"/>
+
+<!-- HSR ROW 2 · ⑥–⑩ -->
 <!-- ⑥ Misha -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1312.png" height="105" title="⑥ Misha"/>
-<!-- ⑧ VERIFY: Dan Heng Permansor Terrae · pakai ID terbaru jika bukan 1213 -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1213.png" height="105" title="⑧ Dan Heng · PT"/>
-<!-- ⑨ Caelus -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8001.png" height="105" title="⑨ Caelus"/>
-<!-- ⑩ Luka -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1312.png" height="105" title="⑥ Misha"/><!--
+⑦ Moze -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1314.png" height="105" title="⑦ Moze"/><!--
+⑧ VERIFY: Dan Heng Permansor Terrae · ganti ID jika bukan 1213 -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1213.png" height="105" title="⑧ Dan Heng · PT"/><!--
+⑨ Caelus -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8001.png" height="105" title="⑨ Caelus"/><!--
+⑩ Luka -->
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1111.png" height="105" title="⑩ Luka"/>
 
 <br/><br/>
-<sub>· sorted by loves priority ·</sub>
+<sub>· sorted by loves priority · edit langsung di README ·</sub>
 
 </td>
 
