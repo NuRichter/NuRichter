@@ -1,20 +1,5 @@
-# ═══════════════════════════════════════════════════════════════════════════════
 #  NuRichter · lowlighter/metrics · GitHub Actions Workflow
 #  Generates SVG infographics and commits them to main branch.
-#
-#  FILE LOCATION: .github/workflows/metrics.yml
-#
-#  SETUP (one-time):
-#  ┌─────────────────────────────────────────────────────────────────────────┐
-#  │  1. Create a GitHub PAT (classic) → https://github.com/settings/tokens │
-#  │     Required scopes: [repo] [read:user]                                │
-#  │  2. Repo → Settings → Secrets and variables → Actions                  │
-#  │     Add secret: METRICS_TOKEN = <your PAT>                             │
-#  │  3. Replace NuRichter with your AniList login below         │
-#  │  4. Push this file to .github/workflows/metrics.yml on main            │
-#  │  5. Go to Actions tab → "NuRichter Metrics" → Run workflow             │
-#  └─────────────────────────────────────────────────────────────────────────┘
-# ═══════════════════════════════════════════════════════════════════════════════
 
 name: NuRichter Metrics
 
@@ -32,9 +17,9 @@ jobs:
     steps:
 
       # ────────────────────────────────────────────────────────────────────
-      #  🦑 Achievements
+      #  Achievements
       # ────────────────────────────────────────────────────────────────────
-      - name: 🦑 Achievements
+      - name: Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -46,9 +31,9 @@ jobs:
           plugin_achievements_threshold: B
 
       # ────────────────────────────────────────────────────────────────────
-      #  🔬 Languages · In-Depth + Recently Used
+      #  Languages · In-Depth + Recently Used
       # ────────────────────────────────────────────────────────────────────
-      - name: 🔬 Languages Activity
+      - name: Languages Activity
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -64,9 +49,9 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 10
 
       # ────────────────────────────────────────────────────────────────────
-      #  💫 Star Lists · Repos + Languages
+      #  Star Lists · Repos + Languages
       # ────────────────────────────────────────────────────────────────────
-      - name: 💫 Star Lists
+      - name: Star Lists
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -81,10 +66,10 @@ jobs:
           plugin_starlists_shuffle_repositories: no
 
       # ────────────────────────────────────────────────────────────────────
-      #  🌸 AniList · Anime (favorites + watching)
-      #     ⚠ GANTI NuRichter DI BAWAH INI
+      #  AniList · Anime (favorites + watching)
+      #  GANTI NuRichter DI SEMUA STEP ANILIST
       # ────────────────────────────────────────────────────────────────────
-      - name: 🌸 AniList · Anime
+      - name: AniList · Anime
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -99,9 +84,9 @@ jobs:
           plugin_anilist_shuffle: yes
 
       # ────────────────────────────────────────────────────────────────────
-      #  🌸 AniList · Manga (favorites + reading)
+      #  AniList · Manga (favorites + reading)
       # ────────────────────────────────────────────────────────────────────
-      - name: 🌸 AniList · Manga
+      - name: AniList · Manga
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -116,16 +101,33 @@ jobs:
           plugin_anilist_shuffle: yes
 
       # ────────────────────────────────────────────────────────────────────
-      #  🌸 AniList · Characters (the husbando shelf ^^)
+      #  AniList · Husbando Shelf (characters batch A · shuffled)
       # ────────────────────────────────────────────────────────────────────
-      - name: 🌸 AniList · Characters
+      - name: AniList · Husbando Shelf
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/metrics/metrics.anilist.characters.svg
+          filename: assets/metrics/metrics.anilist.husbando.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
           plugin_anilist_user: NuRichter
           plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 22
+          plugin_anilist_limit_characters: 11
+          plugin_anilist_shuffle: yes
+
+      # ────────────────────────────────────────────────────────────────────
+      #  AniList · Waifu Shelf (characters batch B · shuffled)
+      # ────────────────────────────────────────────────────────────────────
+      - name: AniList · Waifu Shelf
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/metrics.anilist.waifu.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: NuRichter
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 11
+          plugin_anilist_shuffle: yes
