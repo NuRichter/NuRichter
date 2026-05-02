@@ -472,32 +472,48 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 
 <br/>
 
-## `$` &nbsp; 🌸 AniList · The Other Side of the Screen
+## `$` &nbsp; AniList · The Other Side of the Screen
 
 > between compiling kernels and compiling watchlists · a wanderer needs downtime too ^^;
 
 <div align="center">
 
-<!-- lowlighter/metrics · auto-generated daily -->
+<!-- lowlighter/metrics · auto-generated daily · 2x2 grid layout -->
 
-### · 📺 for anime watchers ·
+<table>
+<tr>
 
+<td width="50%" align="center">
+<h3>· for anime watchers ·</h3>
 <img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.anime.svg"
      alt="NuRichter · AniList · Anime" width="100%" />
+</td>
 
-<br/><br/>
+<td width="50%" align="center">
+<h3>· the husbando shelf ·</h3>
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.husbando.svg"
+     alt="NuRichter · AniList · Husbando" width="100%" />
+</td>
 
-### · 📖 for manga readers ·
+</tr>
+<tr>
 
+<td width="50%" align="center">
+<h3>· for manga readers ·</h3>
 <img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.manga.svg"
      alt="NuRichter · AniList · Manga" width="100%" />
+</td>
 
-<br/><br/>
+<td width="50%" align="center">
+<h3>· the waifu shelf ·</h3>
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.waifu.svg"
+     alt="NuRichter · AniList · Waifu" width="100%" />
+</td>
 
-### · 💜 the husbando shelf ·
+</tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.characters.svg"
-     alt="NuRichter · AniList · Characters" width="100%" />
+<sub>all four panels auto-generated from AniList via lowlighter/metrics · shuffled daily</sub>
 
 </div>
 
