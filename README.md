@@ -6,13 +6,13 @@
 <div align="center">
 
 <!-- ┌─────────────────────────── BANNER ─────────────────────────────────────┐ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,40:1E1432,70:3A1A2E,100:6F4F8A&height=220&section=header&text=NuRichter&fontSize=72&fontColor=EDE5DD&fontAlignY=42&desc=WANDERER%20%E2%80%A2%20OF%20%E2%80%A2%20CODE%20%20%E2%80%94%20%20%2F%2F%20CODE%20%C2%B7%20ML%20%C2%B7%20SYSTEMS%20%C2%B7%20LINUX%20%C2%B7%20AESTHETICS&descSize=13&descAlignY=68&descAlign=50&animation=twinkling&stroke=C0A0E8&strokeWidth=1"
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/banner.svg"
      width="100%" alt="NuRichter — Wanderer of Code" />
 
 <br/><br/>
 
 <!-- ┌───────────────────────── TYPING TAGLINE ───────────────────────────────┐ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=C0A0E8&center=true&vCenter=true&width=750&height=45&lines=wander+all+you+must%2C+i'll+find+you;%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC%E3%83%BB%E3%81%84%E3%81%96%E7%94%9F%E3%81%8D%E3%82%81%E3%82%84%E3%82%82;%2F%2F+CODE+%C2%B7+ML+%C2%B7+SYSTEMS+%C2%B7+LINUX+%C2%B7+AESTHETICS;building+things+at+the+edge+of+reason;NuRichter+Workspace+%E2%80%94+where+craft+meets+current" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=C0A0E8&center=true&vCenter=true&width=750&height=45&lines=wander+all+you+must%2C+i'll+find+you;%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC%E3%83%BB%E3%81%84%E3%81%96%E7%94%9F%E3%81%8D%E3%82%81%E3%82%84%E3%82%82;%2F%2F+BACKEND+%C2%B7+ML+%C2%B7+CYBERSECURITY+%C2%B7+SYSTEMS;I+break+things+to+understand+them+better;Richterize+The+Infinity+%E2%88%9E" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -43,9 +43,9 @@
   between a shell prompt at 2 AM and a dashboard nobody asked for
   but everyone ends up needing — that's where you'll find me.
 
-  I run NuRichter Workspace. We do IoT, electrical systems,
-  creative design, and training. The work is real, the hours are odd,
-  the coffee is lukewarm and irrelevant.
+  I break into systems to understand them.
+  I build systems so others don't have to guess.
+  I run NuRichter Workspace — IoT · Electrical · AI/ML · Design — EST. 2020.
 
   I write code the way the wind moves: without asking permission.
 ```
@@ -81,73 +81,71 @@ The workspace is the gallery.
 
 <br/>
 
-## `$` &nbsp; Domains I Wander Through
+## `$` &nbsp; The Stack — 2026
 
 <div align="center">
 
-| Domain | What I build |
-|:---|:---|
-| `⚡ IoT & Embedded` | sensor pipelines, edge inference, firmware, MQTT/FastAPI stacks |
-| `🧠 AI / ML` | anomaly detection, time-series forecasting, LLM tooling, dashboards |
-| `🔌 Electrical Eng.` | panel design, schematic capture, industrial automation, Ragnarok-branded work |
-| `🎨 Creative Design` | motion graphics, brand identity, UI/UX for hardware-meets-software products |
-| `🌐 Web & Backend` | static sites, REST APIs, realtime telemetry UIs, VPS deployment |
-| `🛠️ CNC & Fabrication` | CAD-to-cut workflows under the Mulya Jaya sub-brand |
+### · ☠ CyberSecurity · Red Team · Offensive ·
 
-</div>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1E1432?style=for-the-badge&logo=kalilinux&logoColor=C73E3A)
+![Parrot OS](https://img.shields.io/badge/ParrotOS-1E1432?style=for-the-badge&logo=linux&logoColor=C0A0E8)
+![Metasploit](https://img.shields.io/badge/Metasploit-1E1432?style=for-the-badge&logo=metasploit&logoColor=C73E3A)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1E1432?style=for-the-badge&logo=portswigger&logoColor=FF6633)
+![SQLMap](https://img.shields.io/badge/SQLMap-1E1432?style=for-the-badge&logo=mysql&logoColor=C73E3A)
+![Nmap](https://img.shields.io/badge/Nmap-1E1432?style=for-the-badge&logo=nmap&logoColor=C0A0E8)
+![Wireshark](https://img.shields.io/badge/Wireshark-1E1432?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Hydra](https://img.shields.io/badge/Hydra-1E1432?style=for-the-badge&logo=gnu&logoColor=C73E3A)
+![Gobuster](https://img.shields.io/badge/Gobuster-1E1432?style=for-the-badge&logo=go&logoColor=8B6FBF)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-1E1432?style=for-the-badge&logo=linux&logoColor=C0A0E8)
+![Hashcat](https://img.shields.io/badge/Hashcat-1E1432?style=for-the-badge&logo=linux&logoColor=C73E3A)
 
-<br/>
+### · 🔬 Reverse Engineering · Binary Exploitation ·
 
----
+![pwntools](https://img.shields.io/badge/pwntools-1E1432?style=for-the-badge&logo=python&logoColor=C73E3A)
+![GDB+PEDA](https://img.shields.io/badge/GDB_+_PEDA-1E1432?style=for-the-badge&logo=gnu&logoColor=C0A0E8)
+![Ghidra](https://img.shields.io/badge/Ghidra-1E1432?style=for-the-badge&logo=nsa&logoColor=C73E3A)
+![Radare2](https://img.shields.io/badge/Radare2-1E1432?style=for-the-badge&logo=linux&logoColor=8B6FBF)
+![IDA Free](https://img.shields.io/badge/IDA_Free-1E1432?style=for-the-badge&logo=databricks&logoColor=C0A0E8)
+![CTF Docker](https://img.shields.io/badge/CTF_Docker-1E1432?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-<br/>
+### · 🌐 Web Exploitation · OSINT ·
 
-## `$` &nbsp; The Stack
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-1E1432?style=for-the-badge&logo=owasp&logoColor=C73E3A)
+![ffuf](https://img.shields.io/badge/ffuf-1E1432?style=for-the-badge&logo=go&logoColor=C0A0E8)
+![Nikto](https://img.shields.io/badge/Nikto-1E1432?style=for-the-badge&logo=linux&logoColor=C73E3A)
+![theHarvester](https://img.shields.io/badge/theHarvester-1E1432?style=for-the-badge&logo=python&logoColor=8B6FBF)
+![Shodan](https://img.shields.io/badge/Shodan-1E1432?style=for-the-badge&logo=shodan&logoColor=C73E3A)
+![Maltego](https://img.shields.io/badge/Maltego-1E1432?style=for-the-badge&logo=maltego&logoColor=C0A0E8)
 
-<div align="center">
-
-### · Languages ·
+### · ⚙️ Backend · Systems · Infrastructure ·
 
 ![Python](https://img.shields.io/badge/Python-1E1432?style=for-the-badge&logo=python&logoColor=C0A0E8)
-![C](https://img.shields.io/badge/C-1E1432?style=for-the-badge&logo=c&logoColor=C73E3A)
-![C++](https://img.shields.io/badge/C++-1E1432?style=for-the-badge&logo=cplusplus&logoColor=C73E3A)
-![Java](https://img.shields.io/badge/Java-1E1432?style=for-the-badge&logo=openjdk&logoColor=C0A0E8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1432?style=for-the-badge&logo=javascript&logoColor=C0A0E8)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E1432?style=for-the-badge&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1432?style=for-the-badge&logo=postgresql&logoColor=C0A0E8)
+![Redis](https://img.shields.io/badge/Redis-1E1432?style=for-the-badge&logo=redis&logoColor=C73E3A)
+![MQTT](https://img.shields.io/badge/MQTT-1E1432?style=for-the-badge&logo=mqtt&logoColor=8B6FBF)
+![Docker](https://img.shields.io/badge/Docker-1E1432?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-1E1432?style=for-the-badge&logo=nginx&logoColor=009900)
+![Linux](https://img.shields.io/badge/Linux-1E1432?style=for-the-badge&logo=linux&logoColor=C0A0E8)
 ![Bash](https://img.shields.io/badge/Bash-1E1432?style=for-the-badge&logo=gnubash&logoColor=8B6FBF)
-![LaTeX](https://img.shields.io/badge/LaTeX-1E1432?style=for-the-badge&logo=latex&logoColor=C0A0E8)
+![Git](https://img.shields.io/badge/Git-1E1432?style=for-the-badge&logo=git&logoColor=C73E3A)
 
-### · ML / Data ·
+### · 🧠 Machine Learning · AI · ·
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1E1432?style=for-the-badge&logo=pytorch&logoColor=C73E3A)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1E1432?style=for-the-badge&logo=scikitlearn&logoColor=C0A0E8)
 ![Pandas](https://img.shields.io/badge/Pandas-1E1432?style=for-the-badge&logo=pandas&logoColor=8B6FBF)
 ![NumPy](https://img.shields.io/badge/NumPy-1E1432?style=for-the-badge&logo=numpy&logoColor=C0A0E8)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1E1432?style=for-the-badge&logo=streamlit&logoColor=C73E3A)
+![Jupyter](https://img.shields.io/badge/Jupyter-1E1432?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-1E1432?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
-### · Embedded & IoT ·
+### · 🔩 Embedded · IoT · Hardware ·
 
 ![ESP32](https://img.shields.io/badge/ESP32-1E1432?style=for-the-badge&logo=espressif&logoColor=C73E3A)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1E1432?style=for-the-badge&logo=raspberrypi&logoColor=C73E3A)
-![NVIDIA Jetson](https://img.shields.io/badge/Jetson-1E1432?style=for-the-badge&logo=nvidia&logoColor=76B900)
-![MQTT](https://img.shields.io/badge/MQTT-1E1432?style=for-the-badge&logo=mqtt&logoColor=C0A0E8)
 ![Arduino](https://img.shields.io/badge/Arduino-1E1432?style=for-the-badge&logo=arduino&logoColor=00979D)
-
-### · Web & Backend ·
-
-![FastAPI](https://img.shields.io/badge/FastAPI-1E1432?style=for-the-badge&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1432?style=for-the-badge&logo=postgresql&logoColor=C0A0E8)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1E1432?style=for-the-badge&logo=bootstrap&logoColor=8B6FBF)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-1E1432?style=for-the-badge&logo=alpinedotjs&logoColor=77C1D2)
-![Vercel](https://img.shields.io/badge/Vercel-1E1432?style=for-the-badge&logo=vercel&logoColor=C0A0E8)
-
-### · Systems & Tools ·
-
-![Linux](https://img.shields.io/badge/Linux-1E1432?style=for-the-badge&logo=linux&logoColor=C0A0E8)
-![Docker](https://img.shields.io/badge/Docker-1E1432?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-1E1432?style=for-the-badge&logo=git&logoColor=C73E3A)
-![GitHub Actions](https://img.shields.io/badge/Actions-1E1432?style=for-the-badge&logo=githubactions&logoColor=C0A0E8)
-![VS Code](https://img.shields.io/badge/VS_Code-1E1432?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-1E1432?style=for-the-badge&logo=figma&logoColor=C73E3A)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1E1432?style=for-the-badge&logo=raspberrypi&logoColor=C73E3A)
+![NVIDIA Jetson](https://img.shields.io/badge/Jetson_Orin-1E1432?style=for-the-badge&logo=nvidia&logoColor=76B900)
 
 </div>
 
@@ -161,17 +159,17 @@ The workspace is the gallery.
 
 <div align="center">
 
-<img height="165em"
-     src="https://github-readme-stats.vercel.app/api?username=NuRichter&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=C0A0E8&icon_color=C73E3A&text_color=EDE5DD&ring_color=6F4F8A&bg_color=00000000"
+<img height="170em"
+     src="https://github-readme-stats.vercel.app/api?username=NuRichter&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&include_all_commits=true"
      alt="NuRichter Stats" />
 &nbsp;
-<img height="165em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuRichter&layout=compact&theme=transparent&hide_border=true&title_color=C0A0E8&text_color=EDE5DD&bg_color=00000000&langs_count=7"
+<img height="170em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuRichter&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8"
      alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=NuRichter&theme=transparent&hide_border=true&ring=C73E3A&fire=C0A0E8&currStreakLabel=C0A0E8&sideLabels=8B6FBF&currStreakNum=EDE5DD&sideNums=EDE5DD&dates=6F4F8A"
+<img src="https://streak-stats.demolab.com?user=NuRichter&theme=midnight-purple&hide_border=true&ring=C73E3A&fire=C0A0E8&currStreakLabel=C0A0E8"
      alt="NuRichter Streak" />
 
 </div>
@@ -182,15 +180,25 @@ The workspace is the gallery.
 
 <br/>
 
-## `$` &nbsp; The Sub-brands
+## `$` &nbsp; The Workspace
 
 <div align="center">
 
 ```
-NuRichter Workspace
-├── ⚡  Ragnarok          — electrical engineering & industrial systems
-├── 📡  RigRoom           — IoT services & edge computing builds
-└── 🔩  Mulya Jaya        — CNC manufacturing & precision fabrication
+NuRichter Workspace  ·  EST. 2020  ·  Jakarta  ·  14 Active Contributors
+Richterize The Infinity ∞
+│
+├── 🧪  NuRichter Labs      — R&D · AI/ML · IoT · Computer Vision  [6 people]
+│        AgriHex-SkyCure · Wellsense · Sperm Quant · Book Projects
+│
+├── ⚡  Ragnarok            — Electrical Eng. · Industrial Systems  [2 people]
+│        PLC Siemens/Mitsubishi/Schneider · SCADA · Pneumatics · Panel Design
+│
+├── 📡  RigRoom             — IoT Services · Edge Computing          [3 people]
+│        ESP32 · MQTT · Dashboard Realtime · FastAPI Stacks · Hostinger VPS
+│
+└── 🔩  Mulya Jaya          — CNC Manufacturing · Rapid Prototyping  [3 people]
+         CNC Milling · 3D Printing FDM · Plakat · UMKM Prototyping
 ```
 
 </div>
@@ -203,25 +211,29 @@ NuRichter Workspace
 
 ## `$` &nbsp; Current Dispatch
 
-> These are the things actively running in the background:
-
 ```yaml
 active_builds:
   - name: "Wellsense"
-    type: "AI/ML Platform"
-    domain: "Upstream Oil & Gas"
+    type: "AI/ML Platform — Upstream Oil & Gas"
     stack: [Isolation Forest, LSTM, K-Means, Streamlit, FastAPI]
-    status: "deep work"
+    event: "IOC Digital Hackathon AI/ML Hulu Migas 2026"
+    status: "deep work 🔥"
+
+  - name: "AgriHex-SkyCure"
+    type: "Hexarotor UAV + Computer Vision"
+    stack: [Jetson Orin, RealSense, ArduPilot, FastAPI, MQTT, 433MHz/5.8GHz]
+    event: "PKM 2026"
+    status: "field testing"
+
+  - name: "Sperm Quant — CASA"
+    type: "Biomedical · Computer Vision"
+    stack: [Image Processing, ML, OpenCV]
+    status: "research collaboration"
 
   - name: "NuRichter Workspace Site"
     type: "Portfolio Web"
     stack: [HTML, Bootstrap 5.3, Alpine.js, AOS, Vercel]
     status: "iterating"
-
-  - name: "AgriHex-SkyCure"
-    type: "Hexarotor UAV + CV"
-    stack: [Jetson, MAVLink, FastAPI, PostgreSQL, MQTT, 433MHz/5.8GHz dual-link]
-    status: "field testing"
 ```
 
 <br/>
