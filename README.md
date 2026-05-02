@@ -509,46 +509,46 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 
 <sub>✦ genshin impact · loves by priority ✦</sub><br/>
 <!-- ① -->
-<img src="https://enka.network/ui/UI_AvatarIcon_Wanderer.png"  width="43" title="① Wanderer"/>
+<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Wanderer.png"  height="105" title="① Wanderer"/>
 <!-- ② -->
-<img src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"    width="43" title="② Kazuha"/>
+<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Kazuha.png"    height="105" title="② Kazuha"/>
 <!-- ③ -->
-<img src="https://enka.network/ui/UI_AvatarIcon_Gorou.png"     width="43" title="③ Gorou"/>
+<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Gorou.png"     height="105" title="③ Gorou"/>
 <!-- ④ -->
-<img src="https://enka.network/ui/UI_AvatarIcon_Venti.png"     width="43" title="④ Venti"/>
+<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Venti.png"     height="105" title="④ Venti"/>
 <!-- ⑤ -->
-<img src="https://enka.network/ui/UI_AvatarIcon_Lyney.png"     width="43" title="⑤ Lyney"/>
+<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Liney.png"     height="105" title="⑤ Lyney"/>
 <!-- ⑥ -->
-<img src="https://enka.network/ui/UI_AvatarIcon_Cyno.png"      width="43" title="⑥ Cyno"/>
+<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Cyno.png"      height="105" title="⑥ Cyno"/>
 <!-- ⑦ -->
-<img src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"   width="43" title="⑦ Bennett"/>
+<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Bennett.png"   height="105" title="⑦ Bennett"/>
 <!-- ⑧ VERIFY: ganti filename Lohen sesuai enka.network jika beda -->
-<img src="https://enka.network/ui/UI_AvatarIcon_Lohen.png"     width="43" title="⑧ Lohen"/>
+<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Lohen.png"     height="105" title="⑧ Lohen"/>
 <!-- ⑨ -->
-<img src="https://enka.network/ui/UI_AvatarIcon_PlayerBoy.png" width="43" title="⑨ Aether"/>
+<img src="https://enka.network/ui/UI_Gacha_AvatarImg_PlayerBoy.png" height="105" title="⑨ Aether"/>
 <!-- ⑩ -->
-<img src="https://enka.network/ui/UI_AvatarIcon_Freminet.png"  width="43" title="⑩ Freminet"/>
+<img src="https://enka.network/ui/UI_Gacha_AvatarImg_Freminet.png"  height="105" title="⑩ Freminet"/>
 
 <br/><br/>
 
-<sub>✦ honkai: star rail · 2026 ✦</sub><br/>
+<sub>✦ honkai: star rail · loves by priority ✦</sub><br/>
 <!-- ① Sunday -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1313.png" width="43" title="① Sunday"/>
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1313.png" height="105" title="① Sunday"/>
 <!-- ② Yanqing -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1209.png" width="43" title="② Yanqing"/>
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1209.png" height="105" title="② Yanqing"/>
 <!-- ③ Arlan -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1008.png" width="43" title="③ Arlan"/>
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1008.png" height="105" title="③ Arlan"/>
 <!-- ⑥ Misha -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1312.png" width="43" title="⑥ Misha"/>
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1312.png" height="105" title="⑥ Misha"/>
 <!-- ⑧ VERIFY: Dan Heng Permansor Terrae · pakai ID terbaru jika bukan 1213 -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1213.png" width="43" title="⑧ Dan Heng · PT"/>
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1213.png" height="105" title="⑧ Dan Heng · PT"/>
 <!-- ⑨ Caelus -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8001.png" width="43" title="⑨ Caelus"/>
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8001.png" height="105" title="⑨ Caelus"/>
 <!-- ⑩ Luka -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1111.png" width="43" title="⑩ Luka"/>
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1111.png" height="105" title="⑩ Luka"/>
 
 <br/><br/>
-<sub>· sorted by loves priority · edit langsung di README ·</sub>
+<sub>· sorted by loves priority ·</sub>
 
 </td>
 
