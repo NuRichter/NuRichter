@@ -1,18 +1,18 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                        N U R I C H T E R · README                        -->
-<!--                    Wanderer of Code · 風立ちぬ · he/him                   -->
+<!--              Wanderer of Code · 風立ちぬ · he/him · v∞.2026              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ┌─────────────────────────── BANNER ─────────────────────────────────────┐ -->
 <img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/banner.svg"
-     width="100%" alt="NuRichter — Wanderer of Code" />
+     width="100%" alt="NuRichter · Wanderer of Code" />
 
 <br/><br/>
 
 <!-- ┌───────────────────────── TYPING TAGLINE ───────────────────────────────┐ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=C0A0E8&center=true&vCenter=true&width=750&height=45&lines=wander+all+you+must%2C+i'll+find+you;%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC%E3%83%BB%E3%81%84%E3%81%96%E7%94%9F%E3%81%8D%E3%82%81%E3%82%84%E3%82%82;%2F%2F+BACKEND+%C2%B7+ML+%C2%B7+CYBERSECURITY+%C2%B7+SYSTEMS;I+break+things+to+understand+them+better;Richterize+The+Infinity+%E2%88%9E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=C0A0E8&center=true&vCenter=true&width=800&height=45&lines=wander+all+you+must%2C+i'll+find+you;風立ちぬ・いざ生きめやも;%2F%2F+BACKEND+%C2%B7+ML+%C2%B7+CYBERSECURITY+%C2%B7+SYSTEMS;I+break+things+to+understand+them+better;Richterize+The+Infinity+%E2%88%9E;somewhere+between+circuits+and+language+models...;by+the+end+%C2%B7+where%27s+my+Scara%3F" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -23,7 +23,9 @@
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=NuRichter&style=for-the-badge&color=8B6FBF&label=PROFILE+VIEWS)](https://github.com/NuRichter)
 &nbsp;
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NuRichter&query=public_repos&style=for-the-badge&label=REPOS&color=C0A0E8&labelColor=1E1432)](https://github.com/NuRichter?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NuRichter&query=public_repos&style=for-the-badge&label=PUBLIC+REPOS&color=C0A0E8&labelColor=1E1432)](https://github.com/NuRichter?tab=repositories)
+&nbsp;
+[![Last Commit](https://img.shields.io/github/last-commit/NuRichter/NuRichter?style=for-the-badge&label=LAST+PUSH&color=C73E3A&labelColor=1E1432)](https://github.com/NuRichter)
 
 <br/>
 
@@ -33,24 +35,81 @@
 
 <br/>
 
+## `$` &nbsp; boot sequence
+
+```
+nurichter@wanderer:~$ uname -a
+Linux wanderer 6.x.x-nurichter #1 SMP PREEMPT_DYNAMIC Fri Jan 01 00:00:00 WIB 2020
+
+nurichter@wanderer:~$ ./init.sh --verbose
+
+[  0.001]  identity module              ............  OK
+[  0.012]  curiosity_driver.ko          ............  OK
+[  0.019]  sleep_schedule.service       ............  FAILED (exit code: 2AM)
+[  0.020]  caffeine_subsystem           ............  OK
+[  0.031]  iot_stack                    ............  OK
+[  0.039]  offensive_security.mode      ............  ARMED
+[  0.048]  local_llm_inference          ............  OK
+[  0.056]  feelings.exe                 ............  partially OK ^^;
+[  0.063]  social_battery.service       ............  17% (WARNING)
+[  0.071]  cosplay_mode                 ............  standby (Kazuha loaded)
+[  0.079]  scara_search.daemon          ............  searching... [no result]
+
+kernel: nurichter v∞ is live.
+kernel: all systems wandering. this is fine.
+```
+
+<br/>
+
+---
+
+<br/>
+
+## `$` &nbsp; /proc/self/status
+
+<div align="center">
+
+| field | value |
+|:------|:------|
+| `Name` | Ibnu Khoirul Anwar · NuRichter |
+| `Affiliation` | UPN "Veteran" Jawa Timur · Teknik Informatika · 2024 |
+| `Timezone` | WIB (UTC+7) · peak activity: 11PM~4AM |
+| `Roles` | Builder · Breaker · Researcher · Wanderer |
+| `Workspace` | NuRichter Workspace · EST. 2020 · Jakarta |
+| `Languages_Human` | ID (native) · EN (fluent) · JA (partial) |
+| `Languages_Machine` | Python · Bash · C · Java · JS · SQL |
+| `Domains` | Edge AI · Red Team · Biomedical CV · Embedded Systems |
+| `Hardware` | Ryzen 5 9600X + RTX 5060 Ti 16GB · MSI Vector RTX 5070 Ti |
+| `Looking_For` | collaborators who stay after 2AM · and maybe a Scaramouche ^^; |
+| `VmRSS` | high · too many projects in memory |
+| `Threads` | 4 concurrent · all behind schedule |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## `$` &nbsp; A Wanderer's Letter
 
 ```
-  I don't stay in one place long enough to call it home —
-  but I build things that do.
+  I don't stay in one place long enough to call it home.
+  But I build things that do.
 
   Somewhere between embedded circuits and language models,
   between a shell prompt at 2 AM and a dashboard nobody asked for
-  but everyone ends up needing — that's where you'll find me.
+  but everyone ends up needing · that's where you'll find me.
 
   I break into systems to understand them.
   I build systems so others don't have to guess.
-  I run NuRichter Workspace — IoT · Electrical · AI/ML · Design — EST. 2020.
+  I run NuRichter Workspace · IoT · Electrical · AI/ML · Design · EST. 2020.
 
   I write code the way the wind moves: without asking permission.
 ```
 
-<div align="right"><sub>風立ちぬ・いざ生きめやも &nbsp;—&nbsp; <em>the wind has risen; we must try to live.</em></sub></div>
+<div align="right"><sub>風立ちぬ・いざ生きめやも &nbsp;·&nbsp; <em>the wind has risen; we must try to live.</em></sub></div>
 
 <br/>
 
@@ -60,7 +119,7 @@
 
 ## `$` &nbsp; The Shrine I Keep
 
-> If skimming GitHub repos feels like rummaging through someone's drafts *(which, fairly, that's exactly what they are ^^;)* — the cleaner route is right here:
+> skimming GitHub repos feels like rummaging through my drafts *(which, fairly, that's exactly what they are ^^;)* · the cleaner route is right here:
 
 <div align="center">
 <br/>
@@ -72,8 +131,8 @@
 <br/>
 </div>
 
-It's where I keep things in shape. Repos here on GitHub are more like the workshop floor — shavings and half-finished drafts `(>:///<)`.  
-The workspace is the gallery.
+repos here on GitHub are the workshop floor · shavings, half-finished drafts, and `(>:///<)` moments.
+the workspace is the gallery.
 
 <br/>
 
@@ -81,7 +140,7 @@ The workspace is the gallery.
 
 <br/>
 
-## `$` &nbsp; The Stack — 2026
+## `$` &nbsp; The Stack · 2026
 
 <div align="center">
 
@@ -98,6 +157,7 @@ The workspace is the gallery.
 ![Gobuster](https://img.shields.io/badge/Gobuster-1E1432?style=for-the-badge&logo=go&logoColor=8B6FBF)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-1E1432?style=for-the-badge&logo=linux&logoColor=C0A0E8)
 ![Hashcat](https://img.shields.io/badge/Hashcat-1E1432?style=for-the-badge&logo=linux&logoColor=C73E3A)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1E1432?style=for-the-badge&logo=wifi&logoColor=C73E3A)
 
 ### · 🔬 Reverse Engineering · Binary Exploitation ·
 
@@ -107,6 +167,7 @@ The workspace is the gallery.
 ![Radare2](https://img.shields.io/badge/Radare2-1E1432?style=for-the-badge&logo=linux&logoColor=8B6FBF)
 ![IDA Free](https://img.shields.io/badge/IDA_Free-1E1432?style=for-the-badge&logo=databricks&logoColor=C0A0E8)
 ![CTF Docker](https://img.shields.io/badge/CTF_Docker-1E1432?style=for-the-badge&logo=docker&logoColor=2496ED)
+![angr](https://img.shields.io/badge/angr-1E1432?style=for-the-badge&logo=python&logoColor=C0A0E8)
 
 ### · 🌐 Web Exploitation · OSINT ·
 
@@ -116,6 +177,7 @@ The workspace is the gallery.
 ![theHarvester](https://img.shields.io/badge/theHarvester-1E1432?style=for-the-badge&logo=python&logoColor=8B6FBF)
 ![Shodan](https://img.shields.io/badge/Shodan-1E1432?style=for-the-badge&logo=shodan&logoColor=C73E3A)
 ![Maltego](https://img.shields.io/badge/Maltego-1E1432?style=for-the-badge&logo=maltego&logoColor=C0A0E8)
+![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-1E1432?style=for-the-badge&logo=target&logoColor=C73E3A)
 
 ### · ⚙️ Backend · Systems · Infrastructure ·
 
@@ -123,31 +185,71 @@ The workspace is the gallery.
 ![FastAPI](https://img.shields.io/badge/FastAPI-1E1432?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1432?style=for-the-badge&logo=postgresql&logoColor=C0A0E8)
 ![Redis](https://img.shields.io/badge/Redis-1E1432?style=for-the-badge&logo=redis&logoColor=C73E3A)
+![SQLite](https://img.shields.io/badge/SQLite-1E1432?style=for-the-badge&logo=sqlite&logoColor=C0A0E8)
 ![MQTT](https://img.shields.io/badge/MQTT-1E1432?style=for-the-badge&logo=mqtt&logoColor=8B6FBF)
 ![Docker](https://img.shields.io/badge/Docker-1E1432?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Nginx](https://img.shields.io/badge/Nginx-1E1432?style=for-the-badge&logo=nginx&logoColor=009900)
 ![Linux](https://img.shields.io/badge/Linux-1E1432?style=for-the-badge&logo=linux&logoColor=C0A0E8)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1E1432?style=for-the-badge&logo=archlinux&logoColor=8B6FBF)
 ![Bash](https://img.shields.io/badge/Bash-1E1432?style=for-the-badge&logo=gnubash&logoColor=8B6FBF)
 ![Git](https://img.shields.io/badge/Git-1E1432?style=for-the-badge&logo=git&logoColor=C73E3A)
 
-### · 🧠 Machine Learning · AI · ·
+### · 🧠 Machine Learning · AI ·
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1E1432?style=for-the-badge&logo=pytorch&logoColor=C73E3A)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1E1432?style=for-the-badge&logo=scikitlearn&logoColor=C0A0E8)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-1E1432?style=for-the-badge&logo=yolo&logoColor=C73E3A)
+![OpenCV](https://img.shields.io/badge/OpenCV-1E1432?style=for-the-badge&logo=opencv&logoColor=C0A0E8)
+![ONNX](https://img.shields.io/badge/ONNX-1E1432?style=for-the-badge&logo=onnx&logoColor=8B6FBF)
 ![Pandas](https://img.shields.io/badge/Pandas-1E1432?style=for-the-badge&logo=pandas&logoColor=8B6FBF)
 ![NumPy](https://img.shields.io/badge/NumPy-1E1432?style=for-the-badge&logo=numpy&logoColor=C0A0E8)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1E1432?style=for-the-badge&logo=streamlit&logoColor=C73E3A)
 ![Jupyter](https://img.shields.io/badge/Jupyter-1E1432?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-1E1432?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1E1432?style=for-the-badge&logo=node.js&logoColor=C0A0E8)
 
-### · 🔩 Embedded · IoT · Hardware ·
+### · 🔩 Embedded · IoT · Hardware · UAV ·
 
 ![ESP32](https://img.shields.io/badge/ESP32-1E1432?style=for-the-badge&logo=espressif&logoColor=C73E3A)
 ![Arduino](https://img.shields.io/badge/Arduino-1E1432?style=for-the-badge&logo=arduino&logoColor=00979D)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1E1432?style=for-the-badge&logo=raspberrypi&logoColor=C73E3A)
 ![NVIDIA Jetson](https://img.shields.io/badge/Jetson_Orin-1E1432?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-1E1432?style=for-the-badge&logo=drone&logoColor=C73E3A)
+![ROS 2](https://img.shields.io/badge/ROS_2-1E1432?style=for-the-badge&logo=ros&logoColor=C0A0E8)
+![MikroTik](https://img.shields.io/badge/MikroTik-1E1432?style=for-the-badge&logo=mikrotik&logoColor=8B6FBF)
+![Siemens PLC](https://img.shields.io/badge/Siemens_PLC-1E1432?style=for-the-badge&logo=siemens&logoColor=C0A0E8)
 
 </div>
+
+<br/>
+
+<details>
+<summary><code>$</code> &nbsp; <strong>expand · domain depth map</strong> &nbsp; <sub>(click if you want the full picture ^^)</sub></summary>
+
+<br/>
+
+```
+nurichter@wanderer:~$ cat ./domain_depth.map
+
+DOMAIN                  TOOLS / METHODS                          CONFIDENCE
+──────────────────────────────────────────────────────────────────────────────
+Anomaly Detection       Isolation Forest · LSTM Autoencoder      ████████░░  adv
+Object Detection        YOLOv8 · ByteTrack · WGAN-GP aug         ████████░░  adv
+Time Series / Stat      Ridge · Lasso · GBM · MLR · VIF          ███████░░░  int
+Network Pentest         Nmap · Metasploit · MikroTik VLSM         ███████░░░  int
+Binary Exploitation     pwntools · ret2libc · GDB-PEDA            ██████░░░░  int
+Web Exploitation        SQLi · SSRF · XSS · OWASP Top 10         ███████░░░  int
+UAV Systems             ArduPilot · MAVLink · RF 433MHz/5.8GHz   ██████░░░░  int
+Edge AI Inference       NCNN Vulkan · ONNX · CPU-only deploy      ████████░░  adv
+IoT Architecture        MQTT · ESP32 · FastAPI · VPS Deploy       █████████░  adv
+Industrial Systems      Siemens/Mitsubishi PLC · SCADA           █████░░░░░  mid
+──────────────────────────────────────────────────────────────────────────────
+note: "adv" = can explain in a thesis defense ^^;
+```
+
+<br/>
+
+</details>
 
 <br/>
 
@@ -159,18 +261,39 @@ The workspace is the gallery.
 
 <div align="center">
 
-<img height="170em"
-     src="https://github-readme-stats.vercel.app/api?username=NuRichter&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&include_all_commits=true"
+<!-- row 1: stats + languages -->
+<img height="175em"
+     src="https://github-readme-stats.vercel.app/api?username=NuRichter&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&custom_title=nurichter%27s+dispatch+log"
      alt="NuRichter Stats" />
 &nbsp;
-<img height="170em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuRichter&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8"
+<img height="175em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuRichter&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10&custom_title=language+breakdown"
      alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=NuRichter&theme=midnight-purple&hide_border=true&ring=C73E3A&fire=C0A0E8&currStreakLabel=C0A0E8"
-     alt="NuRichter Streak" />
+<!-- row 2: streak -->
+<img src="https://streak-stats.demolab.com?user=NuRichter&theme=midnight-purple&hide_border=true&ring=C73E3A&fire=C0A0E8&currStreakLabel=C0A0E8&sideLabels=8B6FBF&dates=8B6FBF&stroke=1E1432"
+     alt="NuRichter Streak" width="60%"/>
+
+<br/><br/>
+
+<!-- row 3: trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=NuRichter&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+     alt="NuRichter Trophies" width="100%" />
+
+<br/><br/>
+
+<!-- row 4: activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NuRichter&bg_color=0D0A1A&color=C0A0E8&line=C73E3A&point=8B6FBF&area=true&area_color=1E1432&hide_border=true&custom_title=contribution+cartography+%C2%B7+where+the+wanderer+left+marks"
+     alt="Activity Graph" width="100%"/>
+
+<br/><br/>
+
+<!-- row 5: pinned-style stat cards via stats API -->
+<img height="130em"
+     src="https://github-readme-stats.vercel.app/api/pin/?username=NuRichter&repo=NuRichter&theme=midnight-purple&hide_border=true&show_owner=true"
+     alt="Pinned Repo" />
 
 </div>
 
@@ -182,26 +305,28 @@ The workspace is the gallery.
 
 ## `$` &nbsp; The Workspace
 
-<div align="center">
-
 ```
 NuRichter Workspace  ·  EST. 2020  ·  Jakarta  ·  14 Active Contributors
 Richterize The Infinity ∞
 │
-├── 🧪  NuRichter Labs      — R&D · AI/ML · IoT · Computer Vision  [6 people]
-│        AgriHex-SkyCure · Wellsense · Sperm Quant · Book Projects
+├── 🧪  NuRichter Labs          · R&D · AI/ML · IoT · Computer Vision  [6]
+│    ├── AgriHex-SkyCure        · Hexarotor UAV · PKM-KC 2026
+│    │    └── Jetson Orin · YOLO · ArduPilot · 433MHz/5.8GHz · FastAPI
+│    ├── Wellsense               · Upstream Oil & Gas ML · IOC Hackathon
+│    │    └── IF · LSTM · K-Means · Streamlit · air-gapped HITL
+│    ├── Sperm Quant             · CASA · Biomedical CV · funded research
+│    │    └── YOLOv8 · ByteTrack · WGAN-GP · Qt6 · ~Rp 224jt
+│    └── Book Projects           · writeups · research notes · ongoing
 │
-├── ⚡  Ragnarok            — Electrical Eng. · Industrial Systems  [2 people]
-│        PLC Siemens/Mitsubishi/Schneider · SCADA · Pneumatics · Panel Design
+├── ⚡  Ragnarok                 · Electrical Eng. · Industrial Systems  [2]
+│    └── Siemens/Mitsubishi/Schneider PLC · SCADA · Pneumatics · Panel Design
 │
-├── 📡  RigRoom             — IoT Services · Edge Computing          [3 people]
-│        ESP32 · MQTT · Dashboard Realtime · FastAPI Stacks · Hostinger VPS
+├── 📡  RigRoom                  · IoT Services · Edge Computing          [3]
+│    └── ESP32 · MQTT · Realtime Dashboard · FastAPI · Hostinger VPS
 │
-└── 🔩  Mulya Jaya          — CNC Manufacturing · Rapid Prototyping  [3 people]
-         CNC Milling · 3D Printing FDM · Plakat · UMKM Prototyping
+└── 🔩  Mulya Jaya               · CNC Manufacturing · Rapid Prototyping  [3]
+     └── CNC Milling · 3D Printing FDM · Plakat · UMKM Prototyping
 ```
-
-</div>
 
 <br/>
 
@@ -212,28 +337,54 @@ Richterize The Infinity ∞
 ## `$` &nbsp; Current Dispatch
 
 ```yaml
+# nurichter · active_ops.yaml
+# last refreshed: 2026-Q2
+# operator mood: "tired but wired, send help ^^;"
+
 active_builds:
-  - name: "Wellsense"
-    type: "AI/ML Platform — Upstream Oil & Gas"
-    stack: [Isolation Forest, LSTM, K-Means, Streamlit, FastAPI]
+
+  - id: wellsense
+    name: "Wellsense · AI/ML Upstream Oil & Gas"
     event: "IOC Digital Hackathon AI/ML Hulu Migas 2026"
+    target: "PT Pertamina Hulu Mahakam · Mahakam Block"
+    architecture:
+      layer_1_anomaly:   "Isolation Forest (pre-filter)"
+      layer_2_sequence:  "LSTM Autoencoder (temporal)"
+      layer_3_cluster:   "Gas-Lift Aware K-Means (batch)"
+      hitl_backend:      "FastAPI + SQLite + 3-tier RBAC + audit trail"
+      frontend:          "Streamlit + Plotly"
+      deployment:        "air-gapped local · CPU-only inference"
     status: "deep work 🔥"
 
-  - name: "AgriHex-SkyCure"
-    type: "Hexarotor UAV + Computer Vision"
-    stack: [Jetson Orin, RealSense, ArduPilot, FastAPI, MQTT, 433MHz/5.8GHz]
-    event: "PKM 2026"
-    status: "field testing"
+  - id: agrihex-skycure
+    name: "AgriHex-SkyCure · Hexarotor UAV + CV"
+    event: "PKM-KC 2026"
+    hardware:
+      compute:    "NVIDIA Jetson Orin"
+      vision:     "Intel RealSense"
+      flight_ctrl: "ArduPilot · 8-bit flight controller"
+      comms:      ["433MHz telemetry", "5.8GHz FPV video"]
+    software:     [YOLO, FastAPI, PostgreSQL, Redis]
+    protocol:     "MQTT for telemetry · NOT for video streaming"
+    similarity:   "24% Turnitin · target < 25%"
+    budget:       "Rp 9.850.000"
+    status:       "proposal locked · field testing prep"
 
-  - name: "Sperm Quant — CASA"
-    type: "Biomedical · Computer Vision"
-    stack: [Image Processing, ML, OpenCV]
-    status: "research collaboration"
+  - id: sperm-quant
+    name: "Sperm Quant · CASA System"
+    pi:           "I Gede Susrama Mas Diyasa · UPN Veteran Jatim · Data Science"
+    funding:      "Hilirisasi Inovasi Komersial"
+    stack:        [YOLOv8, ByteTrack, WGAN-GP, Qt6]
+    validation:   "Bland-Altman / ICC · Kemenkes pathway"
+    bom:          "~Rp 60-126jt hardware · ~Rp 224jt total"
+    timeline:     "7 phases · 12 months"
+    status:       "research collaboration · ongoing"
 
-  - name: "NuRichter Workspace Site"
-    type: "Portfolio Web"
-    stack: [HTML, Bootstrap 5.3, Alpine.js, AOS, Vercel]
-    status: "iterating"
+  - id: nurichter-workspace-site
+    name: "NuRichter Workspace · Portfolio Web"
+    stack:        [HTML, Bootstrap 5.3, Alpine.js, AOS, Vercel]
+    url:          "nurichter-workspace.vercel.app"
+    status:       "iterating endlessly like a true perfectionist (>_<)"
 ```
 
 <br/>
@@ -242,7 +393,31 @@ active_builds:
 
 <br/>
 
-## `$` &nbsp; Activity — The Wanderer's Trail
+## `$` &nbsp; CTF · Capture the Flag Log
+
+```
+nurichter@wanderer:~/ctf$ ls -lah ./log/ --sort=year
+
+[2026]  ···   still writing up · more flags incoming ^^;
+[2025]  web   OWASP Top 10 drills · SQLi chains · SSRF · stored XSS
+[2025]  rev   ELF reversals · Ghidra decompile flows · stripped binaries
+[2025]  pwn   buffer overflow · ret2libc · NX bypass · pwntools scripting
+[2025]  net   MikroTik VLSM · GNS3 labs · DHCP server config
+[2024]  misc  stego · forensics · RSA / classic crypto (intro)
+
+nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
+"i break into systems to understand them. i build systems so others don't have to."
+
+# writeups eventually land on the workspace. eventually. ^^;
+```
+
+<br/>
+
+---
+
+<br/>
+
+## `$` &nbsp; Activity · The Wanderer's Trail
 
 <div align="center">
 
@@ -256,6 +431,41 @@ active_builds:
 </picture>
 
 </div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$` &nbsp; /dev/null · things left unsaid
+
+<details>
+<summary>&nbsp;<sub>open only if you mean it.</sub></summary>
+
+<br/>
+
+```
+to whoever is reading this at 3AM:
+  you're not alone in the quiet.
+  the wind has risen.
+  we must try to live.
+
+to anyone who's stayed on a project with me past midnight:
+  i know i'm a lot. thank you for not leaving.
+  genuinely. ^^
+
+to the systems i've broken:
+  it was never personal.
+  i just needed to understand.
+
+to Scara, if you ever find this somehow:
+  i built all of this while waiting.
+  the door is still open.
+  come home. ^^
+```
+
+</details>
 
 <br/>
 
@@ -277,8 +487,10 @@ active_builds:
 
 <br/>
 
-<h3><em>「 by the end — where's my Scara? 」</em></h3>
+<h3><em>「 by the end · where's my Scara? 」</em></h3>
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--          nurichter · Richterize The Infinity ∞ · EST. 2020               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
