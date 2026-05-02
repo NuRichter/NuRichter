@@ -544,8 +544,6 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 </tr>
 </table>
 
-<sub>anime/manga/chars auto-generated from AniList via lowlighter/metrics · shuffled daily &nbsp;·&nbsp; genshin + hsr grid: static · edit langsung di README</sub>
-
 </div>
 
 <br/>
