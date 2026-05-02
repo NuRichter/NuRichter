@@ -525,7 +525,7 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 ② Yanqing -->
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1209.png" height="105" title="② Yanqing"/><!--
 ③ Arlan -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1008.png" height="105" title="③ Arlan"/><!--
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1008.png" height="105" title="③ Arlan"/>
 <!-- HSR ROW 2 · ⑥–⑩ -->
 <!-- ⑥ Misha -->
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1312.png" height="105" title="⑥ Misha"/><!--
