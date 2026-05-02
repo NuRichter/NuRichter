@@ -505,15 +505,63 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 </td>
 
 <td width="50%" align="center">
-<h3>· the waifu shelf ·</h3>
-<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.waifu.svg"
-     alt="NuRichter · AniList · Waifu" width="100%" />
+<h3>· my boys · genshin + hsr ·</h3>
+
+<sub>✦ genshin impact · loves by priority ✦</sub><br/>
+<!-- ① -->
+<img src="https://enka.network/ui/UI_AvatarIcon_Wanderer.png"  width="43" title="① Wanderer"/>
+<!-- ② -->
+<img src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"    width="43" title="② Kazuha"/>
+<!-- ③ -->
+<img src="https://enka.network/ui/UI_AvatarIcon_Gorou.png"     width="43" title="③ Gorou"/>
+<!-- ④ -->
+<img src="https://enka.network/ui/UI_AvatarIcon_Venti.png"     width="43" title="④ Venti"/>
+<!-- ⑤ -->
+<img src="https://enka.network/ui/UI_AvatarIcon_Lyney.png"     width="43" title="⑤ Lyney"/>
+<!-- ⑥ -->
+<img src="https://enka.network/ui/UI_AvatarIcon_Cyno.png"      width="43" title="⑥ Cyno"/>
+<!-- ⑦ -->
+<img src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"   width="43" title="⑦ Bennett"/>
+<!-- ⑧ VERIFY: ganti filename Lohen sesuai enka.network jika beda -->
+<img src="https://enka.network/ui/UI_AvatarIcon_Lohen.png"     width="43" title="⑧ Lohen"/>
+<!-- ⑨ -->
+<img src="https://enka.network/ui/UI_AvatarIcon_PlayerBoy.png" width="43" title="⑨ Aether"/>
+<!-- ⑩ -->
+<img src="https://enka.network/ui/UI_AvatarIcon_Freminet.png"  width="43" title="⑩ Freminet"/>
+
+<br/><br/>
+
+<sub>✦ honkai: star rail · 2026 ✦</sub><br/>
+<!-- ① Sunday -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1313.png" width="43" title="① Sunday"/>
+<!-- ② Yanqing -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1209.png" width="43" title="② Yanqing"/>
+<!-- ③ Arlan -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1008.png" width="43" title="③ Arlan"/>
+<!-- ④ Jiaoqiu -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1309.png" width="43" title="④ Jiaoqiu"/>
+<!-- ⑤ Aventurine -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1310.png" width="43" title="⑤ Aventurine"/>
+<!-- ⑥ Misha -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1312.png" width="43" title="⑥ Misha"/>
+<!-- ⑦ Moze -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1314.png" width="43" title="⑦ Moze"/>
+<!-- ⑧ VERIFY: Dan Heng Permansor Terrae · pakai ID terbaru jika bukan 1213 -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1213.png" width="43" title="⑧ Dan Heng · PT"/>
+<!-- ⑨ Caelus -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8001.png" width="43" title="⑨ Caelus"/>
+<!-- ⑩ Luka -->
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1111.png" width="43" title="⑩ Luka"/>
+
+<br/><br/>
+<sub>· sorted by loves priority · edit langsung di README ·</sub>
+
 </td>
 
 </tr>
 </table>
 
-<sub>all four panels auto-generated from AniList via lowlighter/metrics · shuffled daily</sub>
+<sub>anime/manga/chars auto-generated from AniList via lowlighter/metrics · shuffled daily &nbsp;·&nbsp; genshin + hsr grid: static · edit langsung di README</sub>
 
 </div>
 
