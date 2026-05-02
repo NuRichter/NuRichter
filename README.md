@@ -12,7 +12,7 @@
 <br/><br/>
 
 <!-- ┌───────────────────────── TYPING TAGLINE ───────────────────────────────┐ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=C0A0E8&center=true&vCenter=true&width=800&height=45&lines=wander+all+you+must%2C+i'll+find+you;風立ちぬ・いざ生きめやも;%2F%2F+BACKEND+%C2%B7+ML+%C2%B7+CYBERSECURITY+%C2%B7+SYSTEMS;I+break+things+to+understand+them+better;Richterize+The+Infinity+%E2%88%9E;somewhere+between+circuits+and+language+models...;by+the+end+%C2%B7+where%27s+my+Scara%3F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=C0A0E8&center=true&vCenter=true&width=750&height=45&lines=wander+all+you+must%2C+i%27ll+find+you;%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC%E3%83%BB%E3%81%84%E3%81%96%E7%94%9F%E3%81%8D%E3%82%81%E3%82%84%E3%82%82;%2F%2F+BACKEND+%C2%B7+ML+%C2%B7+CYBERSECURITY+%C2%B7+SYSTEMS;I+break+things+to+understand+them+better;Richterize+The+Infinity+%E2%88%9E;somewhere+between+circuits+and+language+models;by+the+end+%C2%B7+find+me+where+the+wind+goes" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -263,11 +263,11 @@ note: "adv" = can explain in a thesis defense ^^;
 
 <!-- row 1: stats + languages -->
 <img height="175em"
-     src="https://github-readme-stats.vercel.app/api?username=NuRichter&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&custom_title=nurichter%27s+dispatch+log"
+     src="https://github-readme-stats.vercel.app/api?username=NuRichter&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&include_all_commits=true"
      alt="NuRichter Stats" />
 &nbsp;
 <img height="175em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuRichter&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10&custom_title=language+breakdown"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuRichter&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10"
      alt="Top Languages" />
 
 <br/><br/>
@@ -287,13 +287,6 @@ note: "adv" = can explain in a thesis defense ^^;
 <!-- row 4: activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuRichter&bg_color=0D0A1A&color=C0A0E8&line=C73E3A&point=8B6FBF&area=true&area_color=1E1432&hide_border=true&custom_title=contribution+cartography+%C2%B7+where+the+wanderer+left+marks"
      alt="Activity Graph" width="100%"/>
-
-<br/><br/>
-
-<!-- row 5: pinned-style stat cards via stats API -->
-<img height="130em"
-     src="https://github-readme-stats.vercel.app/api/pin/?username=NuRichter&repo=NuRichter&theme=midnight-purple&hide_border=true&show_owner=true"
-     alt="Pinned Repo" />
 
 </div>
 
