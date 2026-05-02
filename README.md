@@ -510,14 +510,14 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 <sub>✦ genshin impact · loves by priority ✦</sub><br/>
 
 <!-- GENSHIN ROW 1 · ①–⑤ · via genshin.jmp.blue /card (portrait) -->
-<img src="https://genshin.jmp.blue/characters/wanderer/card"          height="105" title="① Wanderer"/><img src="https://genshin.jmp.blue/characters/kaedehara-kazuha/card"  height="105" title="② Kazuha"/><img src="https://genshin.jmp.blue/characters/gorou/card"              height="105" title="③ Gorou"/><img src="https://genshin.jmp.blue/characters/venti/card"              height="105" title="④ Venti"/><img src="https://genshin.jmp.blue/characters/lyney/card"              height="105" title="⑤ Lyney"/>
+<img src="https://genshin.jmp.blue/characters/wanderer/card"          height="105" title="① Wanderer"/><img src="https://genshin.jmp.blue/characters/kazuha/card"  height="105" title="② Kazuha"/><img src="https://genshin.jmp.blue/characters/gorou/card"              height="105" title="③ Gorou"/><img src="https://genshin.jmp.blue/characters/venti/card"              height="105" title="④ Venti"/><img src="https://genshin.jmp.blue/characters/lyney/card"              height="105" title="⑤ Lyney"/>
 
 <!-- GENSHIN ROW 2 · ⑥–⑨ (Lohen dihapus) -->
-<img src="https://genshin.jmp.blue/characters/cyno/card"              height="105" title="⑥ Cyno"/><img src="https://genshin.jmp.blue/characters/bennett/card"            height="105" title="⑦ Bennett"/><img src="https://genshin.jmp.blue/characters/aether/card"             height="105" title="⑧ Aether"/><img src="https://genshin.jmp.blue/characters/freminet/card"           height="105" title="⑨ Freminet"/>
+<img src="https://genshin.jmp.blue/characters/cyno/card"              height="105" title="⑥ Cyno"/><img src="https://genshin.jmp.blue/characters/bennett/card"            height="105" title="⑦ Bennett"/><img src="https://genshin.jmp.blue/characters/xiao/card"             height="105" title="⑧ Aether"/><img src="https://genshin.jmp.blue/characters/freminet/card"           height="105" title="⑨ Freminet"/>
 
 <br/>
 
-<sub>✦ honkai: star rail · 2026 ✦</sub><br/>
+<sub>✦ honkai: star rail · loves by priority ✦</sub><br/>
 
 <!-- HSR ROW 1 · ①–⑤ -->
 <!-- ① Sunday -->
@@ -526,16 +526,9 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1209.png" height="105" title="② Yanqing"/><!--
 ③ Arlan -->
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1008.png" height="105" title="③ Arlan"/><!--
-④ Jiaoqiu -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1309.png" height="105" title="④ Jiaoqiu"/><!--
-⑤ Aventurine -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1310.png" height="105" title="⑤ Aventurine"/>
-
 <!-- HSR ROW 2 · ⑥–⑩ -->
 <!-- ⑥ Misha -->
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1312.png" height="105" title="⑥ Misha"/><!--
-⑦ Moze -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1314.png" height="105" title="⑦ Moze"/><!--
 ⑧ VERIFY: Dan Heng Permansor Terrae · ganti ID jika bukan 1213 -->
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1213.png" height="105" title="⑧ Dan Heng · PT"/><!--
 ⑨ Caelus -->
@@ -544,7 +537,7 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1111.png" height="105" title="⑩ Luka"/>
 
 <br/><br/>
-<sub>· sorted by loves priority · edit langsung di README ·</sub>
+<sub>· sorted by loves priority ·</sub>
 
 </td>
 
