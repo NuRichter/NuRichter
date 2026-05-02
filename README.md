@@ -6,15 +6,13 @@
 <div align="center">
 
 <!-- ┌─────────────────────────── BANNER ─────────────────────────────────────┐ -->
-<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/banner.png"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,40:1E1432,70:3A1A2E,100:6F4F8A&height=220&section=header&text=NuRichter&fontSize=72&fontColor=EDE5DD&fontAlignY=42&desc=WANDERER%20%E2%80%A2%20OF%20%E2%80%A2%20CODE%20%20%E2%80%94%20%20%2F%2F%20CODE%20%C2%B7%20ML%20%C2%B7%20SYSTEMS%20%C2%B7%20LINUX%20%C2%B7%20AESTHETICS&descSize=13&descAlignY=68&descAlign=50&animation=twinkling&stroke=C0A0E8&strokeWidth=1"
      width="100%" alt="NuRichter — Wanderer of Code" />
 
 <br/><br/>
 
 <!-- ┌───────────────────────── TYPING TAGLINE ───────────────────────────────┐ -->
-<a href="https://nurichter-workspace.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2000&color=C0A0E8&center=true&vCenter=true&width=700&lines=wander+all+you+must%2C+i'll+find+you;風立ちぬ・いざ生きめやも;%2F%2F+CODE+%C2%B7+ML+%C2%B7+SYSTEMS+%C2%B7+LINUX+%C2%B7+AESTHETICS;building+things+at+the+edge+of+reason;NuRichter+Workspace+%E2%80%94+where+craft+meets+current" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=C0A0E8&center=true&vCenter=true&width=750&height=45&lines=wander+all+you+must%2C+i'll+find+you;%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC%E3%83%BB%E3%81%84%E3%81%96%E7%94%9F%E3%81%8D%E3%82%81%E3%82%84%E3%82%82;%2F%2F+CODE+%C2%B7+ML+%C2%B7+SYSTEMS+%C2%B7+LINUX+%C2%B7+AESTHETICS;building+things+at+the+edge+of+reason;NuRichter+Workspace+%E2%80%94+where+craft+meets+current" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -263,16 +261,11 @@ active_builds:
   .    .      .       .        .      .          .    .
 ```
 
-<sub><sup>
-&nbsp; NuRichter &nbsp;·&nbsp; he/him &nbsp;·&nbsp; In Your Hearts^^ &nbsp;·&nbsp;
-<a href="https://nurichter-workspace.vercel.app">nurichter-workspace.vercel.app</a>
-</sup></sub>
+<h4>NuRichter &nbsp;·&nbsp; he/him &nbsp;·&nbsp; In Your Hearts^^ &nbsp;·&nbsp; <a href="https://nurichter-workspace.vercel.app">nurichter-workspace.vercel.app</a></h4>
 
 <br/>
 
-<sub>
-  <em>「 by the end — where's my Scara? 」</em>
-</sub>
+<h3><em>「 by the end — where's my Scara? 」</em></h3>
 
 </div>
 
