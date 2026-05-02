@@ -537,7 +537,6 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1111.png" height="105" title="⑩ Luka"/>
 
 <br/><br/>
-<sub>· sorted by loves priority ·</sub>
 
 </td>
 
