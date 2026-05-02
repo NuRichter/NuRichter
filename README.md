@@ -71,17 +71,17 @@ kernel: all systems wandering. this is fine.
 
 | field | value |
 |:------|:------|
-| `Name` | Ibnu Khoirul Anwar · NuRichter |
-| `Affiliation` | UPN "Veteran" Jawa Timur · Teknik Informatika · 2024 |
+| `Name` | NuRichter |
+| `Affiliation` | Scaramouchieess:3 |
 | `Timezone` | WIB (UTC+7) · peak activity: 11PM~4AM |
 | `Roles` | Builder · Breaker · Researcher · Wanderer |
-| `Workspace` | NuRichter Workspace · EST. 2020 · Jakarta |
-| `Languages_Human` | ID (native) · EN (fluent) · JA (partial) |
-| `Languages_Machine` | Python · Bash · C · Java · JS · SQL |
-| `Domains` | Edge AI · Red Team · Biomedical CV · Embedded Systems |
-| `Hardware` | Ryzen 5 9600X + RTX 5060 Ti 16GB · MSI Vector RTX 5070 Ti |
-| `Looking_For` | collaborators who stay after 2AM · and maybe a Scaramouche ^^; |
-| `VmRSS` | high · too many projects in memory |
+| `Workspace` | NuRichter Workspace · EST. 2020 · Inazuma |
+| `Languages_Human` | ID (native) · EN (C1) · JA (N4) · CN (HSK2) |
+| `Languages_Machine` | Machine Pretender |
+| `Domains` | What Do You Need Sir? |
+| `Hardware` | Ryzen 9 9900X3D + RTX 5090 · MSI Vector RTX 5070 Ti |
+| `Looking_For` | Scaramouche ^^ |
+| `VmRSS` | low cortisol · too many projects in memory |
 | `Threads` | 4 concurrent · all behind schedule |
 
 </div>
