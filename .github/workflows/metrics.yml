@@ -10,9 +10,8 @@
 #  │     Required scopes: [repo] [read:user]                                │
 #  │  2. Repo → Settings → Secrets and variables → Actions                  │
 #  │     Add secret: METRICS_TOKEN = <your PAT>                             │
-#  │  3. Replace NuRichter with your AniList login below         │
-#  │  4. Push this file to .github/workflows/metrics.yml on main            │
-#  │  5. Go to Actions tab → "NuRichter Metrics" → Run workflow             │
+#  │  3. Push this file to .github/workflows/metrics.yml on main            │
+#  │  4. Go to Actions tab → "NuRichter Metrics" → Run workflow             │
 #  └─────────────────────────────────────────────────────────────────────────┘
 # ═══════════════════════════════════════════════════════════════════════════════
 
@@ -82,7 +81,6 @@ jobs:
 
       # ────────────────────────────────────────────────────────────────────
       #  AniList · Anime (favorites + watching)
-      #  GANTI NuRichter DI SEMUA STEP ANILIST
       # ────────────────────────────────────────────────────────────────────
       - name: AniList · Anime
         if: ${{ success() || failure() }}
@@ -116,9 +114,10 @@ jobs:
           plugin_anilist_shuffle: yes
 
       # ────────────────────────────────────────────────────────────────────
-      #  AniList · Husbando Shelf (characters batch A · shuffled)
+      #  AniList · Character Shelf (all favorites · shuffled daily)
+      #  Merged dari husbando + waifu jadi satu step
       # ────────────────────────────────────────────────────────────────────
-      - name: AniList · Husbando Shelf
+      - name: AniList · Character Shelf
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -128,21 +127,5 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: NuRichter
           plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 11
-          plugin_anilist_shuffle: yes
-
-      # ────────────────────────────────────────────────────────────────────
-      #  AniList · Waifu Shelf (characters batch B · shuffled)
-      # ────────────────────────────────────────────────────────────────────
-      - name: AniList · Waifu Shelf
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/metrics/metrics.anilist.waifu.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_user: NuRichter
-          plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 11
+          plugin_anilist_limit_characters: 22
           plugin_anilist_shuffle: yes
