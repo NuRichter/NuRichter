@@ -1,225 +1,279 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                                                                  ║
-  ║    NuRichter · A wanderer's letter to the Wanderer               ║
-  ║                                                                  ║
-  ║    ✦ Banner asset:    ./assets/banner.svg                        ║
-  ║    ✦ Snake workflow:  ./.github/workflows/snake.yml              ║
-  ║    ✦ Portfolio:       https://nurichter-workspace.vercel.app/    ║
-  ║                                                                  ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        N U R I C H T E R · README                        -->
+<!--                    Wanderer of Code · 風立ちぬ · he/him                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://nurichter-workspace.vercel.app/">
-  <img src="./assets/banner.svg" alt="NuRichter, Wanderer of Code" width="100%"/>
+<!-- ┌─────────────────────────── BANNER ─────────────────────────────────────┐ -->
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/banner.png"
+     width="100%" alt="NuRichter — Wanderer of Code" />
+
+<br/><br/>
+
+<!-- ┌───────────────────────── TYPING TAGLINE ───────────────────────────────┐ -->
+<a href="https://nurichter-workspace.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2000&color=C0A0E8&center=true&vCenter=true&width=700&lines=wander+all+you+must%2C+i'll+find+you;風立ちぬ・いざ生きめやも;%2F%2F+CODE+%C2%B7+ML+%C2%B7+SYSTEMS+%C2%B7+LINUX+%C2%B7+AESTHETICS;building+things+at+the+edge+of+reason;NuRichter+Workspace+%E2%80%94+where+craft+meets+current" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C0A0E8&center=true&vCenter=true&width=760&height=44&lines=where+is+my+Scara%3F;wander+all+you+must%2C+i%27ll+find+you;i%27m+here%2C+Scara...+always;in+every+lifetime%2C;i+love+you+Scara" alt="Typing tagline"/></a>
+<!-- ┌─────────────────────────── NAV BADGES ─────────────────────────────────┐ -->
+[![Portfolio](https://img.shields.io/badge/▲_+_PORTFOLIO-nurichter--workspace.vercel.app-C73E3A?style=for-the-badge&labelColor=1E1432&logoColor=white)](https://nurichter-workspace.vercel.app)
+&nbsp;
+[![GitHub Followers](https://img.shields.io/github/followers/NuRichter?style=for-the-badge&label=FOLLOWERS&logo=github&color=6F4F8A&labelColor=1E1432)](https://github.com/NuRichter?tab=followers)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=NuRichter&style=for-the-badge&color=8B6FBF&label=PROFILE+VIEWS)](https://github.com/NuRichter)
+&nbsp;
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NuRichter&query=public_repos&style=for-the-badge&label=REPOS&color=C0A0E8&labelColor=1E1432)](https://github.com/NuRichter?tab=repositories)
 
-<br/><br/>
+<br/>
 
-<a href="https://nurichter-workspace.vercel.app/"><img src="https://img.shields.io/badge/✦_portfolio-nurichter--workspace.vercel.app-C73E3A?style=for-the-badge&logo=vercel&logoColor=E8D5FF&labelColor=1E1432" alt="Portfolio"/></a>
-<a href="https://github.com/NuRichter?tab=followers"><img src="https://img.shields.io/github/followers/NuRichter?style=for-the-badge&logo=github&logoColor=E8D5FF&label=FOLLOWERS&labelColor=1E1432&color=6F4F8A" alt="Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=NuRichter&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1E1432&color=8B6FBF" alt="Profile views"/>
-<a href="https://github.com/NuRichter?tab=repositories"><img src="https://img.shields.io/badge/REPOS-9-74BAA8?style=for-the-badge&logo=git&logoColor=E8D5FF&labelColor=1E1432" alt="Repos"/></a>
+</div>
+
+---
+
+<br/>
+
+## `$` &nbsp; A Wanderer's Letter
+
+```
+  I don't stay in one place long enough to call it home —
+  but I build things that do.
+
+  Somewhere between embedded circuits and language models,
+  between a shell prompt at 2 AM and a dashboard nobody asked for
+  but everyone ends up needing — that's where you'll find me.
+
+  I run NuRichter Workspace. We do IoT, electrical systems,
+  creative design, and training. The work is real, the hours are odd,
+  the coffee is lukewarm and irrelevant.
+
+  I write code the way the wind moves: without asking permission.
+```
+
+<div align="right"><sub>風立ちぬ・いざ生きめやも &nbsp;—&nbsp; <em>the wind has risen; we must try to live.</em></sub></div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$` &nbsp; The Shrine I Keep
+
+> If skimming GitHub repos feels like rummaging through someone's drafts *(which, fairly, that's exactly what they are ^^;)* — the cleaner route is right here:
+
+<div align="center">
+<br/>
+
+[![Visit Workspace](https://img.shields.io/badge/▲_+_VISIT_MY_WORKSPACE-nurichter--workspace.vercel.app-C73E3A?style=for-the-badge&labelColor=1E1432)](https://nurichter-workspace.vercel.app)
+
+<sub>polished write-ups · proper screenshots · the projects I'm actually proud of</sub>
+
+<br/>
+</div>
+
+It's where I keep things in shape. Repos here on GitHub are more like the workshop floor — shavings and half-finished drafts `(>:///<)`.  
+The workspace is the gallery.
+
+<br/>
+
+---
+
+<br/>
+
+## `$` &nbsp; Domains I Wander Through
+
+<div align="center">
+
+| Domain | What I build |
+|:---|:---|
+| `⚡ IoT & Embedded` | sensor pipelines, edge inference, firmware, MQTT/FastAPI stacks |
+| `🧠 AI / ML` | anomaly detection, time-series forecasting, LLM tooling, dashboards |
+| `🔌 Electrical Eng.` | panel design, schematic capture, industrial automation, Ragnarok-branded work |
+| `🎨 Creative Design` | motion graphics, brand identity, UI/UX for hardware-meets-software products |
+| `🌐 Web & Backend` | static sites, REST APIs, realtime telemetry UIs, VPS deployment |
+| `🛠️ CNC & Fabrication` | CAD-to-cut workflows under the Mulya Jaya sub-brand |
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!--   §  A Wanderer's Letter                                            -->
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <samp>§ &nbsp; A Wanderer's Letter</samp>
+---
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!--   §  The Shrine I Keep (Portfolio Highlight)                        -->
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <samp>§ &nbsp; The Shrine I Keep</samp>
+## `$` &nbsp; The Stack
 
 <div align="center">
 
-If skimming GitHub repos feels like rummaging through someone's drafts (which, fairly, that's exactly what they are ^^;) the cleaner route is right here:
+### · Languages ·
 
-<br/>
+![Python](https://img.shields.io/badge/Python-1E1432?style=for-the-badge&logo=python&logoColor=C0A0E8)
+![C](https://img.shields.io/badge/C-1E1432?style=for-the-badge&logo=c&logoColor=C73E3A)
+![C++](https://img.shields.io/badge/C++-1E1432?style=for-the-badge&logo=cplusplus&logoColor=C73E3A)
+![Java](https://img.shields.io/badge/Java-1E1432?style=for-the-badge&logo=openjdk&logoColor=C0A0E8)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1432?style=for-the-badge&logo=javascript&logoColor=C0A0E8)
+![Bash](https://img.shields.io/badge/Bash-1E1432?style=for-the-badge&logo=gnubash&logoColor=8B6FBF)
+![LaTeX](https://img.shields.io/badge/LaTeX-1E1432?style=for-the-badge&logo=latex&logoColor=C0A0E8)
 
-<a href="https://nurichter-workspace.vercel.app/">
-  <img src="https://img.shields.io/badge/✦_visit_my_workspace-nurichter--workspace.vercel.app-C73E3A?style=for-the-badge&logo=vercel&logoColor=E8D5FF&labelColor=1E1432" alt="NuRichter Workspace"/>
-</a>
+### · ML / Data ·
 
-<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-1E1432?style=for-the-badge&logo=pytorch&logoColor=C73E3A)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1E1432?style=for-the-badge&logo=scikitlearn&logoColor=C0A0E8)
+![Pandas](https://img.shields.io/badge/Pandas-1E1432?style=for-the-badge&logo=pandas&logoColor=8B6FBF)
+![NumPy](https://img.shields.io/badge/NumPy-1E1432?style=for-the-badge&logo=numpy&logoColor=C0A0E8)
+![Streamlit](https://img.shields.io/badge/Streamlit-1E1432?style=for-the-badge&logo=streamlit&logoColor=C73E3A)
 
-<sub><i>polished write-ups · proper screenshots · the projects i'm actually proud of</i></sub>
+### · Embedded & IoT ·
 
-<br/><br/>
+![ESP32](https://img.shields.io/badge/ESP32-1E1432?style=for-the-badge&logo=espressif&logoColor=C73E3A)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1E1432?style=for-the-badge&logo=raspberrypi&logoColor=C73E3A)
+![NVIDIA Jetson](https://img.shields.io/badge/Jetson-1E1432?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![MQTT](https://img.shields.io/badge/MQTT-1E1432?style=for-the-badge&logo=mqtt&logoColor=C0A0E8)
+![Arduino](https://img.shields.io/badge/Arduino-1E1432?style=for-the-badge&logo=arduino&logoColor=00979D)
+
+### · Web & Backend ·
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1E1432?style=for-the-badge&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1432?style=for-the-badge&logo=postgresql&logoColor=C0A0E8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1E1432?style=for-the-badge&logo=bootstrap&logoColor=8B6FBF)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-1E1432?style=for-the-badge&logo=alpinedotjs&logoColor=77C1D2)
+![Vercel](https://img.shields.io/badge/Vercel-1E1432?style=for-the-badge&logo=vercel&logoColor=C0A0E8)
+
+### · Systems & Tools ·
+
+![Linux](https://img.shields.io/badge/Linux-1E1432?style=for-the-badge&logo=linux&logoColor=C0A0E8)
+![Docker](https://img.shields.io/badge/Docker-1E1432?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-1E1432?style=for-the-badge&logo=git&logoColor=C73E3A)
+![GitHub Actions](https://img.shields.io/badge/Actions-1E1432?style=for-the-badge&logo=githubactions&logoColor=C0A0E8)
+![VS Code](https://img.shields.io/badge/VS_Code-1E1432?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-1E1432?style=for-the-badge&logo=figma&logoColor=C73E3A)
 
 </div>
 
-It's where I keep things in shape. Repos here on GitHub are more like the workshop floor, with shavings and half-finished drafts (>///<) the workspace site is the front gallery, with the lighting on.
+<br/>
+
+---
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+## `$` &nbsp; GitHub Cartography
 
-<!--   §  Where I've Wandered Lately                                     -->
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img height="165em"
+     src="https://github-readme-stats.vercel.app/api?username=NuRichter&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=C0A0E8&icon_color=C73E3A&text_color=EDE5DD&ring_color=6F4F8A&bg_color=00000000"
+     alt="NuRichter Stats" />
+&nbsp;
+<img height="165em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuRichter&layout=compact&theme=transparent&hide_border=true&title_color=C0A0E8&text_color=EDE5DD&bg_color=00000000&langs_count=7"
+     alt="Top Languages" />
 
-## <samp>§ &nbsp; Where I've Wandered Lately</samp>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=NuRichter&theme=transparent&hide_border=true&ring=C73E3A&fire=C0A0E8&currStreakLabel=C0A0E8&sideLabels=8B6FBF&currStreakNum=EDE5DD&sideNums=EDE5DD&dates=6F4F8A"
+     alt="NuRichter Streak" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$` &nbsp; The Sub-brands
+
+<div align="center">
+
+```
+NuRichter Workspace
+├── ⚡  Ragnarok          — electrical engineering & industrial systems
+├── 📡  RigRoom           — IoT services & edge computing builds
+└── 🔩  Mulya Jaya        — CNC manufacturing & precision fabrication
+```
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$` &nbsp; Current Dispatch
+
+> These are the things actively running in the background:
 
 ```yaml
-trails i'm walking right now:
-  bibliotech:        # IA & wireframe ETS, our digital library
-    party:           7 wanderers strong
-    role:            i map the rooms before the books arrive
+active_builds:
+  - name: "Wellsense"
+    type: "AI/ML Platform"
+    domain: "Upstream Oil & Gas"
+    stack: [Isolation Forest, LSTM, K-Means, Streamlit, FastAPI]
+    status: "deep work"
 
-  pkmkc-2026:        # AgriHex-SkyCure, eyes-in-the-sky for sick crops
-    role:            anggota 3 (the careful one ^^)
-    similarity:      24%   # safely under the 25% turnitin gate
+  - name: "NuRichter Workspace Site"
+    type: "Portfolio Web"
+    stack: [HTML, Bootstrap 5.3, Alpine.js, AOS, Vercel]
+    status: "iterating"
 
-  scraper-v3.1:      # hunting class-diagram PDFs across indonesian repos
-    target:          10,000 files
-    method:          sneaky bahasa-first search expansion
-
-trails resting in the satchel:
-  wellsense:         # ai/ml well monitoring, IOC hackathon era
-  archrichter:       # bspwm/arch dotfiles, lovingly over-documented
-  xupscaler:         # electron + ncnn vulkan upscaler app
+  - name: "AgriHex-SkyCure"
+    type: "Hexarotor UAV + CV"
+    stack: [Jetson, MAVLink, FastAPI, PostgreSQL, MQTT, 433MHz/5.8GHz dual-link]
+    status: "field testing"
 ```
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
-<!--   §  Tools I Carry on the Road                                      -->
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <samp>§ &nbsp; Tools I Carry on the Road</samp>
+## `$` &nbsp; Activity — The Wanderer's Trail
 
 <div align="center">
 
-**◇ languages**
-
-![Python](https://img.shields.io/badge/Python-1E1432?style=for-the-badge&logo=python&logoColor=74BAA8)
-![Java](https://img.shields.io/badge/Java-1E1432?style=for-the-badge&logo=openjdk&logoColor=C73E3A)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1432?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E1432?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![C++](https://img.shields.io/badge/C%2B%2B-1E1432?style=for-the-badge&logo=cplusplus&logoColor=C0A0E8)
-![Bash](https://img.shields.io/badge/Bash-1E1432?style=for-the-badge&logo=gnubash&logoColor=74BAA8)
-
-**◇ machine learning &amp; data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-1E1432?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1E1432?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![NumPy](https://img.shields.io/badge/NumPy-1E1432?style=for-the-badge&logo=numpy&logoColor=74BAA8)
-![Pandas](https://img.shields.io/badge/Pandas-1E1432?style=for-the-badge&logo=pandas&logoColor=C0A0E8)
-![YOLO](https://img.shields.io/badge/YOLOv8-1E1432?style=for-the-badge&logo=ultralytics&logoColor=C73E3A)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-1E1432?style=for-the-badge&logo=stable-diffusion&logoColor=C0A0E8)
-
-**◇ web &amp; systems**
-
-![React](https://img.shields.io/badge/React-1E1432?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-1E1432?style=for-the-badge&logo=vite&logoColor=C0A0E8)
-![Tailwind](https://img.shields.io/badge/Tailwind-1E1432?style=for-the-badge&logo=tailwindcss&logoColor=74BAA8)
-![Electron](https://img.shields.io/badge/Electron-1E1432?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E1432?style=for-the-badge&logo=fastapi&logoColor=74BAA8)
-![SQLite](https://img.shields.io/badge/SQLite-1E1432?style=for-the-badge&logo=sqlite&logoColor=C0A0E8)
-
-**◇ environment**
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1E1432?style=for-the-badge&logo=archlinux&logoColor=1793D1)
-![BSPWM](https://img.shields.io/badge/BSPWM-1E1432?style=for-the-badge&logo=linux&logoColor=E8D5FF)
-![Neovim](https://img.shields.io/badge/Neovim-1E1432?style=for-the-badge&logo=neovim&logoColor=74BAA8)
-![Git](https://img.shields.io/badge/Git-1E1432?style=for-the-badge&logo=git&logoColor=C73E3A)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/NuRichter/NuRichter/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/NuRichter/NuRichter/output/github-snake.svg" />
+  <img alt="contribution snake"
+       src="https://raw.githubusercontent.com/NuRichter/NuRichter/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
-<!--   §  Telemetry of the Journey                                       -->
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <samp>§ &nbsp; Telemetry of the Journey</samp>
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NuRichter&hide_border=true&background=0D0B1A&stroke=6F4F8A&ring=C0A0E8&fire=C73E3A&currStreakLabel=74BAA8&sideLabels=E8D5FF&dates=B8A8D4&currStreakNum=E8D5FF&sideNums=E8D5FF" alt="Streak stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuRichter&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=C0A0E8&text_color=E8D5FF&langs_count=8" alt="Top langs" width="48%"/>
+```
+  .  *      .           .          *        .       .          .      .
+       .        .             .       .                    .
+  .          *         .          .       *        .
+         .       .          *                .            .      *
+  .    .      .       .        .      .          .    .
+```
+
+<sub><sup>
+&nbsp; NuRichter &nbsp;·&nbsp; he/him &nbsp;·&nbsp; In Your Hearts^^ &nbsp;·&nbsp;
+<a href="https://nurichter-workspace.vercel.app">nurichter-workspace.vercel.app</a>
+</sup></sub>
+
+<br/>
+
+<sub>
+  <em>「 by the end — where's my Scara? 」</em>
+</sub>
 
 </div>
 
-<br/>
-
-<details>
-  <summary><samp> <b>◇ contribution graph (snake)</b>, click to expand ^^</samp></summary>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuRichter/NuRichter/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuRichter/NuRichter/output/github-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/NuRichter/NuRichter/output/github-snake.svg"/>
-  </picture>
-</details>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!--   §  Outside the Trail                                              -->
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <samp>§ &nbsp; Outside the Trail</samp>
-
-When the terminal is closed for the night, you might catch me:
-
-- 📷 &nbsp; cosplaying **Kazuha** (and pulling off the **KazuScara** duo whenever there's a willing Wanderer at the convention :3)
-- 🎨 &nbsp; running **ComfyUI** workflows on the RTX 5090 and 5070 Ti, mostly for image upscaling, occasionally for self-indulgent edits
-- 🐧 &nbsp; ricing my **BSPWM** setup, where colour-matching the polybar to the wallpaper is a perfectly normal Tuesday evening
-- 🇯🇵 &nbsp; pretending I can read **Japanese** fluently. I cannot, but the kanji is so pretty ^^
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!--   §  A Note for the Wind                                            -->
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-<samp>
-  <i>「 散らずとも いつかは落ちる 紅葉かな 」</i>
-  <br/><br/>
-  <sub>even unscattered, the maple will one day fall.<br/>
-  so if you happen to find this leaf,<br/>
-  please catch it gently ♡</sub>
-</samp>
-
-<br/><br/>
-
-<a href="https://nurichter-workspace.vercel.app/"><img src="https://img.shields.io/badge/portfolio-1E1432?style=for-the-badge&logo=vercel&logoColor=C73E3A" alt="Portfolio"/></a>
-<a href="https://github.com/NuRichter"><img src="https://img.shields.io/badge/github-1E1432?style=for-the-badge&logo=github&logoColor=E8D5FF" alt="GitHub"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=80&section=footer" alt="footer wave" width="100%"/>
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
