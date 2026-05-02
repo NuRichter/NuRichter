@@ -454,6 +454,59 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 
 <br/>
 
+## `$` &nbsp; Star Lists · What the Wanderer Collects
+
+> the repos i star aren't random · they're breadcrumbs of what i'm studying, building, or dreaming about ^^
+
+<div align="center">
+
+<!-- lowlighter/metrics · auto-generated daily -->
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.starlists.svg"
+     alt="NuRichter · Star Lists" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$` &nbsp; 🌸 AniList · The Other Side of the Screen
+
+> between compiling kernels and compiling watchlists · a wanderer needs downtime too ^^;
+
+<div align="center">
+
+<!-- lowlighter/metrics · auto-generated daily -->
+
+### · 📺 for anime watchers ·
+
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.anime.svg"
+     alt="NuRichter · AniList · Anime" width="100%" />
+
+<br/><br/>
+
+### · 📖 for manga readers ·
+
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.manga.svg"
+     alt="NuRichter · AniList · Manga" width="100%" />
+
+<br/><br/>
+
+### · 💜 the husbando shelf ·
+
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.characters.svg"
+     alt="NuRichter · AniList · Characters" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## `$` &nbsp; /dev/null · things left unsaid
 
 <details>
