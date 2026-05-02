@@ -538,14 +538,8 @@ nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1209.png" width="43" title="② Yanqing"/>
 <!-- ③ Arlan -->
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1008.png" width="43" title="③ Arlan"/>
-<!-- ④ Jiaoqiu -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1309.png" width="43" title="④ Jiaoqiu"/>
-<!-- ⑤ Aventurine -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1310.png" width="43" title="⑤ Aventurine"/>
 <!-- ⑥ Misha -->
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1312.png" width="43" title="⑥ Misha"/>
-<!-- ⑦ Moze -->
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1314.png" width="43" title="⑦ Moze"/>
 <!-- ⑧ VERIFY: Dan Heng Permansor Terrae · pakai ID terbaru jika bukan 1213 -->
 <img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1213.png" width="43" title="⑧ Dan Heng · PT"/>
 <!-- ⑨ Caelus -->
