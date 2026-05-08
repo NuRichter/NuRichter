@@ -40,31 +40,6 @@
 
 <br/>
 
-<!-- ┌──────────────── BOOT SEQUENCE · with decorative header ───────────────┐ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,100:1E1432&height=40&text=%24%20boot%20sequence&fontSize=18&fontColor=C0A0E8&fontAlignY=55&fontAlign=8" width="100%" />
-
-```
-nurichter@wanderer:~$ uname -a
-Linux wanderer 6.x.x-nurichter #1 SMP PREEMPT_DYNAMIC Fri Jan 01 00:00:00 WIB 2020
-
-nurichter@wanderer:~$ ./init.sh --verbose
-
-[  0.001]  identity module              ............  OK
-[  0.012]  curiosity_driver.ko          ............  OK
-[  0.019]  sleep_schedule.service       ............  FAILED (exit code: 2AM)
-[  0.020]  caffeine_subsystem           ............  OK
-[  0.031]  iot_stack                    ............  OK
-[  0.039]  offensive_security.mode      ............  ARMED
-[  0.048]  local_llm_inference          ............  OK
-[  0.056]  feelings.exe                 ............  partially OK ^^;
-[  0.063]  social_battery.service       ............  17% (WARNING)
-[  0.071]  cosplay_mode                 ............  standby (Kazuha loaded)
-[  0.079]  scara_search.daemon          ............  searching... [no result]
-
-kernel: nurichter v∞ is live.
-kernel: all systems wandering. this is fine.
-```
-
 <!-- ┌──────────────── /proc/self/status · with decorative header ───────────┐ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,100:1E1432&height=40&text=%24%20%2Fproc%2Fself%2Fstatus&fontSize=18&fontColor=C0A0E8&fontAlignY=55&fontAlign=10" width="100%" />
 
@@ -267,34 +242,6 @@ the workspace is the gallery.
 
 <br/>
 
-<details>
-<summary><code>$</code> &nbsp; <strong>expand · domain depth map</strong> &nbsp; <sub>(click if you want the full picture ^^)</sub></summary>
-
-<br/>
-
-```
-nurichter@wanderer:~$ cat ./domain_depth.map
-
-DOMAIN                  TOOLS / METHODS                          CONFIDENCE
-──────────────────────────────────────────────────────────────────────────────
-Anomaly Detection       Isolation Forest · LSTM Autoencoder      ████████░░  adv
-Object Detection        YOLOv8 · ByteTrack · WGAN-GP aug         ████████░░  adv
-Time Series / Stat      Ridge · Lasso · GBM · MLR · VIF          ███████░░░  int
-Network Pentest         Nmap · Metasploit · MikroTik VLSM         ███████░░░  int
-Binary Exploitation     pwntools · ret2libc · GDB-PEDA            ██████░░░░  int
-Web Exploitation        SQLi · SSRF · XSS · OWASP Top 10         ███████░░░  int
-UAV Systems             ArduPilot · MAVLink · RF 433MHz/5.8GHz   ██████░░░░  int
-Edge AI Inference       NCNN Vulkan · ONNX · CPU-only deploy      ████████░░  adv
-IoT Architecture        MQTT · ESP32 · FastAPI · VPS Deploy       █████████░  adv
-Industrial Systems      Siemens/Mitsubishi PLC · SCADA           █████░░░░░  mid
-──────────────────────────────────────────────────────────────────────────────
-note: "adv" = can explain in a thesis defense ^^;
-```
-
-<br/>
-
-</details>
-
 <br/>
 
 ---
@@ -344,30 +291,6 @@ note: "adv" = can explain in a thesis defense ^^;
 
 <br/>
 
-## `$` &nbsp; The Workspace
-
-```
-NuRichter Workspace  ·  EST. 2020  ·  Jakarta  ·  14 Active Contributors
-Richterize The Infinity
-│
-├── NuRichter Labs          · R&D · AI/ML · IoT · Computer Vision  [6]
-│    ├── AgriHex-SkyCure        · Hexarotor UAV · PKM-KC 2026
-│    │    └── Jetson Orin · YOLO · ArduPilot · 433MHz/5.8GHz · FastAPI
-│    ├── Wellsense               · Upstream Oil & Gas ML · IOC Hackathon
-│    │    └── IF · LSTM · K-Means · Streamlit · air-gapped HITL
-│    ├── Sperm Quant             · CASA · Biomedical CV · funded research
-│    │    └── YOLOv8 · ByteTrack · WGAN-GP · Qt6 · ~Rp 224jt
-│    └── Book Projects           · writeups · research notes · ongoing
-│
-├── Ragnarok                 · Electrical Eng. · Industrial Systems  [2]
-│    └── Siemens/Mitsubishi/Schneider PLC · SCADA · Pneumatics · Panel Design
-│
-├── RigRoom                  · IoT Services · Edge Computing          [3]
-│    └── ESP32 · MQTT · Realtime Dashboard · FastAPI · Hostinger VPS
-│
-└── Mulya Jaya               · CNC Manufacturing · Rapid Prototyping  [3]
-     └── CNC Milling · 3D Printing FDM · Plakat · UMKM Prototyping
-```
 
 <br/>
 
@@ -375,82 +298,6 @@ Richterize The Infinity
 
 <br/>
 
-## `$` &nbsp; Current Dispatch
-
-```yaml
-# nurichter · active_ops.yaml
-# last refreshed: 2026-Q2
-# operator mood: "tired but wired, send help ^^;"
-
-active_builds:
-
-  - id: wellsense
-    name: "Wellsense · AI/ML Upstream Oil & Gas"
-    event: "IOC Digital Hackathon AI/ML Hulu Migas 2026"
-    target: "PT Pertamina Hulu Mahakam · Mahakam Block"
-    architecture:
-      layer_1_anomaly:   "Isolation Forest (pre-filter)"
-      layer_2_sequence:  "LSTM Autoencoder (temporal)"
-      layer_3_cluster:   "Gas-Lift Aware K-Means (batch)"
-      hitl_backend:      "FastAPI + SQLite + 3-tier RBAC + audit trail"
-      frontend:          "Streamlit + Plotly"
-      deployment:        "air-gapped local · CPU-only inference"
-    status: "deep work"
-
-  - id: agrihex-skycure
-    name: "AgriHex-SkyCure · Hexarotor UAV + CV"
-    event: "PKM-KC 2026"
-    hardware:
-      compute:    "NVIDIA Jetson Orin"
-      vision:     "Intel RealSense"
-      flight_ctrl: "ArduPilot · 8-bit flight controller"
-      comms:      ["433MHz telemetry", "5.8GHz FPV video"]
-    software:     [YOLO, FastAPI, PostgreSQL, Redis]
-    protocol:     "MQTT for telemetry · NOT for video streaming"
-    similarity:   "24% Turnitin · target < 25%"
-    budget:       "Rp 9.850.000"
-    status:       "proposal locked · field testing prep"
-
-  - id: sperm-quant
-    name: "Sperm Quant · CASA System"
-    pi:           "I Gede Susrama Mas Diyasa · UPN Veteran Jatim · Data Science"
-    funding:      "Hilirisasi Inovasi Komersial"
-    stack:        [YOLOv8, ByteTrack, WGAN-GP, Qt6]
-    validation:   "Bland-Altman / ICC · Kemenkes pathway"
-    bom:          "~Rp 60-126jt hardware · ~Rp 224jt total"
-    timeline:     "7 phases · 12 months"
-    status:       "research collaboration · ongoing"
-
-  - id: nurichter-workspace-site
-    name: "NuRichter Workspace · Portfolio Web"
-    stack:        [HTML, Bootstrap 5.3, Alpine.js, AOS, Vercel]
-    url:          "nurichter-workspace.vercel.app"
-    status:       "iterating endlessly like a true perfectionist (>_<)"
-```
-
-<br/>
-
----
-
-<br/>
-
-## `$` &nbsp; CTF · Capture the Flag Log
-
-```
-nurichter@wanderer:~/ctf$ ls -lah ./log/ --sort=year
-
-[2026]  ···   still writing up · more flags incoming ^^;
-[2025]  web   OWASP Top 10 drills · SQLi chains · SSRF · stored XSS
-[2025]  rev   ELF reversals · Ghidra decompile flows · stripped binaries
-[2025]  pwn   buffer overflow · ret2libc · NX bypass · pwntools scripting
-[2025]  net   MikroTik VLSM · GNS3 labs · DHCP server config
-[2024]  misc  stego · forensics · RSA / classic crypto (intro)
-
-nurichter@wanderer:~/ctf$ echo $PHILOSOPHY
-"i break into systems to understand them. i build systems so others don't have to."
-
-# writeups eventually land on the workspace. eventually. ^^;
-```
 
 <br/>
 
