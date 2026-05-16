@@ -375,44 +375,34 @@ the workspace is the gallery.
 </table>
 </div>
 
-<!-- ┌──────────── ROW 2 · MANGA + GACHA ────────────────────────────────────┐ -->
+<!-- ┌──────────── ROW 2 · MANGA ──────────────────────────────────────────────┐ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:1A1B3D,100:0D0A1A&height=35&text=MANGA%20%C2%B7%20for%20manga%20readers%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20GACHA%20%C2%B7%20my%20boys%20across%20worlds&fontSize=15&fontColor=C0A0E8&fontAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:1A1B3D,100:0D0A1A&height=35&text=MANGA%20%C2%B7%20for%20manga%20readers&fontSize=16&fontColor=C0A0E8&fontAlignY=55" width="100%" />
 </div>
 
 <div align="center">
-<table>
-<tr>
-
-<td width="50%" align="center" valign="top">
 <img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.manga.svg"
      alt="AniList · Manga" width="100%" />
-</td>
+</div>
 
-<td width="50%" align="center" valign="top">
+<!-- ┌──────────── ROW 3 · GACHA · my boys ──────────────────────────────────┐ -->
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2D1A3D,100:0D0A1A&height=35&text=GACHA%20%C2%B7%20my%20boys%20across%20worlds&fontSize=16&fontColor=C0A0E8&fontAlignY=55" width="100%" />
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GENSHIN_IMPACT-C73E3A?style=for-the-badge&labelColor=1E1432" /><br/>
+<img src="https://genshin.jmp.blue/characters/wanderer/card" height="110" title="Wanderer"/><img src="https://genshin.jmp.blue/characters/kazuha/card" height="110" title="Kazuha"/><img src="https://genshin.jmp.blue/characters/gorou/card" height="110" title="Gorou"/><img src="https://genshin.jmp.blue/characters/venti/card" height="110" title="Venti"/><img src="https://genshin.jmp.blue/characters/lyney/card" height="110" title="Lyney"/>
 <br/>
+<img src="https://img.shields.io/badge/HONKAI:_STAR_RAIL-C0A0E8?style=for-the-badge&labelColor=1E1432" /><br/>
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1313.png" height="110" title="Sunday"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1409.png" height="110" title="Phainon"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1213.png" height="110" title="Dan Heng · PT"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8001.png" height="110" title="Caelus"/>
+<br/>
+<img src="https://img.shields.io/badge/LOVE_AND_DEEPSPACE-8B6FBF?style=for-the-badge&labelColor=1E1432" /><br/>
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/zayne.png" height="130" title="Zayne · Cardiac Surgeon · Evol: Ice"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/rafayel.png" height="130" title="Rafayel · Artist · Evol: Fire"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/sylus.png" height="130" title="Sylus · Onychinus · Evol: Energy"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/xavier.png" height="130" title="Xavier · Hunter · Evol: Light"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/caleb.png" height="130" title="Caleb · Childhood Friend"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E1432,100:2A1B3D&height=25&text=genshin%20impact&fontSize=14&fontColor=C73E3A&fontAlignY=55" width="80%" /><br/>
-<img src="https://genshin.jmp.blue/characters/wanderer/card" height="100" title="Wanderer"/><img src="https://genshin.jmp.blue/characters/kazuha/card" height="100" title="Kazuha"/><img src="https://genshin.jmp.blue/characters/gorou/card" height="100" title="Gorou"/><img src="https://genshin.jmp.blue/characters/venti/card" height="100" title="Venti"/><img src="https://genshin.jmp.blue/characters/lyney/card" height="100" title="Lyney"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E1432,100:2A1B3D&height=25&text=honkai%3A%20star%20rail&fontSize=14&fontColor=C0A0E8&fontAlignY=55" width="80%" /><br/>
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1313.png" height="100" title="Sunday"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1409.png" height="100" title="Phainon"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1213.png" height="100" title="Dan Heng · PT"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8001.png" height="100" title="Caelus"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E1432,100:2A1B3D&height=25&text=love%20and%20deepspace&fontSize=14&fontColor=8B6FBF&fontAlignY=55" width="80%" /><br/>
-<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/zayne.png" height="120" title="Zayne · Cardiac Surgeon · Evol: Ice"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/rafayel.png" height="120" title="Rafayel · Artist · Evol: Fire"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/sylus.png" height="120" title="Sylus · Onychinus · Evol: Energy"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/xavier.png" height="120" title="Xavier · Hunter · Evol: Light"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/caleb.png" height="120" title="Caleb · Childhood Friend"/>
-
-<br/><br/>
-
-</td>
-
-</tr>
-</table>
 </div>
 
 <div align="center">
