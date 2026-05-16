@@ -348,17 +348,17 @@ the workspace is the gallery.
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,20:1E1432,50:3D1A2E,80:1E1432,100:0D0A1A&height=150&section=header&text=The%20Other%20Side%20of%20the%20Screen&fontSize=40&fontColor=C0A0E8&fontAlignY=40&desc=between%20compiling%20kernels%20and%20compiling%20watchlists%20%C2%B7%20a%20wanderer%20needs%20downtime%20too%20%5E%5E%3B&descSize=14&descColor=8B6FBF&descAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,20:1E1432,50:3D1A2E,80:1E1432,100:0D0A1A&height=150&section=header&text=The%20Other%20Side%20of%20the%20Screen&fontSize=40&fontColor=C0A0E8&fontAlignY=40&desc=ughh%20me%20needs%20downtime%20too%20%5E%5E%3B&descSize=14&descColor=8B6FBF&descAlignY=68&animation=fadeIn" width="100%" />
 </div>
 
 <!-- ┌──────────── ROW 1 · ANIME + HUSBANDO ─────────────────────────────────┐ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1028,100:0D0A1A&height=35&text=ANIME%20%C2%B7%20for%20anime%20watchers%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20CHARACTERS%20%C2%B7%20the%20husbando%20shelf&fontSize=15&fontColor=C0A0E8&fontAlignY=55" width="100%" />
-</div>
-
-<div align="center">
 <table>
+<tr>
+<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1028,100:0D0A1A&height=35&text=ANIME%20%C2%B7%20for%20anime%20watchers&fontSize=16&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
+<td width="50%" align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1B3D,100:0D0A1A&height=35&text=CHARACTERS%20%C2%B7%20the%20husbando%20shelf&fontSize=16&fontColor=C0A0E8&fontAlignY=55" width="100%" /></td>
+</tr>
 <tr>
 
 <td width="50%" align="center" valign="top">
