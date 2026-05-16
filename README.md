@@ -343,92 +343,84 @@ the workspace is the gallery.
 
 <br/>
 
-<!-- ┌──────────── AniList · The Other Side of the Screen ──────────────────────┐ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--              AniList · The Other Side of the Screen                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1432,30:3D1A2E,60:1E1432,100:0D0A1A&height=100&section=header&text=%E2%9C%A6%20The%20Other%20Side%20of%20the%20Screen%20%E2%9C%A6&fontSize=26&fontColor=C0A0E8&fontAlignY=45&desc=between%20compiling%20kernels%20and%20compiling%20watchlists&descSize=13&descColor=8B6FBF&descAlignY=72&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,20:1E1432,50:3D1A2E,80:1E1432,100:0D0A1A&height=150&section=header&text=The%20Other%20Side%20of%20the%20Screen&fontSize=40&fontColor=C0A0E8&fontAlignY=40&desc=between%20compiling%20kernels%20and%20compiling%20watchlists%20%C2%B7%20a%20wanderer%20needs%20downtime%20too%20%5E%5E%3B&descSize=14&descColor=8B6FBF&descAlignY=68&animation=fadeIn" width="100%" />
+</div>
+
+<!-- ┌──────────── ROW 1 · ANIME + HUSBANDO ─────────────────────────────────┐ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1028,100:0D0A1A&height=35&text=ANIME%20%C2%B7%20for%20anime%20watchers%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20CHARACTERS%20%C2%B7%20the%20husbando%20shelf&fontSize=15&fontColor=C0A0E8&fontAlignY=55" width="100%" />
 </div>
 
 <div align="center">
-
 <table>
 <tr>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PANEL 1 · ANIME · accent: crimson                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1432,50:3D1A2E,100:1E1432&height=32&text=%E2%80%A2%20%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%84%20%E2%80%A2%20for%20anime%20watchers%20%E2%80%A2&fontSize=13&fontColor=C73E3A&fontAlignY=55" width="100%" />
 <img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.anime.svg"
      alt="AniList · Anime" width="100%" />
 </td>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PANEL 2 · HUSBANDO SHELF · accent: lavender               ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1432,50:2A1B3D,100:1E1432&height=32&text=%E2%80%A2%20%F0%9D%90%82%F0%9D%90%87%F0%9D%90%80%F0%9D%90%91%F0%9D%90%80%F0%9D%90%82%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91%F0%9D%90%92%20%E2%80%A2%20the%20husbando%20shelf%20%E2%80%A2&fontSize=13&fontColor=C0A0E8&fontAlignY=55" width="100%" />
 <img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.husbando.svg"
      alt="AniList · Husbando" width="100%" />
 </td>
 
 </tr>
+</table>
+</div>
+
+<!-- ┌──────────── ROW 2 · MANGA + GACHA ────────────────────────────────────┐ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:1A1B3D,100:0D0A1A&height=35&text=MANGA%20%C2%B7%20for%20manga%20readers%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20GACHA%20%C2%B7%20my%20boys%20across%20worlds&fontSize=15&fontColor=C0A0E8&fontAlignY=55" width="100%" />
+</div>
+
+<div align="center">
+<table>
 <tr>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PANEL 3 · MANGA · accent: indigo                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1432,50:1A1B3D,100:1E1432&height=32&text=%E2%80%A2%20%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%86%F0%9D%90%80%20%E2%80%A2%20for%20manga%20readers%20%E2%80%A2&fontSize=13&fontColor=8B6FBF&fontAlignY=55" width="100%" />
 <img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.manga.svg"
      alt="AniList · Manga" width="100%" />
 </td>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PANEL 4 · MY BOYS · accent: deep purple                   ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1432,50:2D1A3D,100:1E1432&height=32&text=%E2%80%A2%20%F0%9D%90%86%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87%F0%9D%90%80%20%E2%80%A2%20my%20boys%20across%20worlds%20%E2%80%A2&fontSize=13&fontColor=6F4F8A&fontAlignY=55" width="100%" />
 
 <br/>
 
-<!-- ─── genshin impact ─── -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=%E2%9C%A7%20genshin%20impact%20%E2%9C%A7&fontSize=11&fontColor=C73E3A&height=20" /><br/>
-<img src="https://genshin.jmp.blue/characters/wanderer/card" height="85" title="Wanderer"/><img src="https://genshin.jmp.blue/characters/kazuha/card" height="85" title="Kazuha"/><img src="https://genshin.jmp.blue/characters/gorou/card" height="85" title="Gorou"/><img src="https://genshin.jmp.blue/characters/venti/card" height="85" title="Venti"/><img src="https://genshin.jmp.blue/characters/lyney/card" height="85" title="Lyney"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E1432,100:2A1B3D&height=25&text=genshin%20impact&fontSize=14&fontColor=C73E3A&fontAlignY=55" width="80%" /><br/>
+<img src="https://genshin.jmp.blue/characters/wanderer/card" height="100" title="Wanderer"/><img src="https://genshin.jmp.blue/characters/kazuha/card" height="100" title="Kazuha"/><img src="https://genshin.jmp.blue/characters/gorou/card" height="100" title="Gorou"/><img src="https://genshin.jmp.blue/characters/venti/card" height="100" title="Venti"/><img src="https://genshin.jmp.blue/characters/lyney/card" height="100" title="Lyney"/>
 
-<br/>
+<br/><br/>
 
-<!-- ─── honkai: star rail ─── -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=%E2%9C%A7%20honkai%3A%20star%20rail%20%E2%9C%A7&fontSize=11&fontColor=C0A0E8&height=20" /><br/>
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1313.png" height="85" title="Sunday"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1409.png" height="85" title="Phainon"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1213.png" height="85" title="Dan Heng · PT"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8001.png" height="85" title="Caelus"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E1432,100:2A1B3D&height=25&text=honkai%3A%20star%20rail&fontSize=14&fontColor=C0A0E8&fontAlignY=55" width="80%" /><br/>
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1313.png" height="100" title="Sunday"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1409.png" height="100" title="Phainon"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1213.png" height="100" title="Dan Heng · PT"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8001.png" height="100" title="Caelus"/>
 
-<br/>
+<br/><br/>
 
-<!-- ─── love and deepspace ─── -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=%E2%9C%A7%20love%20and%20deepspace%20%E2%9C%A7&fontSize=11&fontColor=8B6FBF&height=20" /><br/>
-<!-- ⚠ LADS has no public image API                                         -->
-<!-- Upload 5 character portraits to: assets/lads/                           -->
-<!-- Files: zayne.png · rafayel.png · sylus.png · xavier.png · caleb.png     -->
-<!-- Size: ~512px tall · transparent or dark background                      -->
-<!-- Then uncomment the block below:                                         -->
-<!--
-<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/zayne.png" height="85" title="Zayne · Cardiac Surgeon · Evol: Ice"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/rafayel.png" height="85" title="Rafayel · Artist · Evol: Fire"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/sylus.png" height="85" title="Sylus · Onychinus · Evol: Energy"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/xavier.png" height="85" title="Xavier · Hunter · Evol: Light"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/caleb.png" height="85" title="Caleb · Childhood Friend"/>
--->
-<sub><strong>Zayne</strong> · <strong>Rafayel</strong> · <strong>Sylus</strong> · <strong>Xavier</strong> · <strong>Caleb</strong></sub><br/>
-<sub><em>"if you have nowhere to go, you can stay with me."</em></sub>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E1432,100:2A1B3D&height=25&text=love%20and%20deepspace&fontSize=14&fontColor=8B6FBF&fontAlignY=55" width="80%" /><br/>
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/zayne.png" height="120" title="Zayne · Cardiac Surgeon · Evol: Ice"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/rafayel.png" height="120" title="Rafayel · Artist · Evol: Fire"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/sylus.png" height="120" title="Sylus · Onychinus · Evol: Energy"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/xavier.png" height="120" title="Xavier · Hunter · Evol: Light"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/caleb.png" height="120" title="Caleb · Childhood Friend"/>
+
+<br/><br/>
 
 </td>
 
 </tr>
 </table>
-
-<br/>
-<sub>anime + manga panels auto-generated from AniList via lowlighter/metrics · shuffled daily</sub>
-<br/>
-
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,30:1E1432,60:2A1B3D,100:1E1432&height=80&section=footer&text=&fontSize=1" width="100%" />
+<sub>anime + manga panels auto-generated from AniList via lowlighter/metrics · shuffled daily</sub>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,20:1E1432,50:3D1A2E,80:1E1432,100:0D0A1A&height=100&section=footer&text=&fontSize=1" width="100%" />
 </div>
 
 <br/>
