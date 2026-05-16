@@ -209,7 +209,7 @@ the workspace is the gallery.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1E1432?style=flat-square&logo=pytorch&logoColor=C73E3A)
 ![scikit-learn](https://img.shields.io/badge/sklearn-1E1432?style=flat-square&logo=scikitlearn&logoColor=C0A0E8)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-1E1432?style=flat-square&logo=yolo&logoColor=C73E3A)
+![YOLOv26](https://img.shields.io/badge/YOLOv26-1E1432?style=flat-square&logo=yolo&logoColor=C73E3A)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1E1432?style=flat-square&logo=opencv&logoColor=C0A0E8)
 ![ONNX](https://img.shields.io/badge/ONNX-1E1432?style=flat-square&logo=onnx&logoColor=8B6FBF)
 ![Pandas](https://img.shields.io/badge/Pandas-1E1432?style=flat-square&logo=pandas&logoColor=8B6FBF)
@@ -343,23 +343,30 @@ the workspace is the gallery.
 
 <br/>
 
-## `$` &nbsp; AniList · The Other Side of the Screen
-
-> between compiling kernels and compiling watchlists · a wanderer needs downtime too ^^;
+<!-- ┌──────────── AniList · The Other Side of the Screen ──────────────────────┐ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1432,50:2A1B3D,100:1E1432&height=90&section=header&text=The%20Other%20Side%20of%20the%20Screen&fontSize=24&fontColor=C0A0E8&fontAlignY=55&desc=between%20compiling%20kernels%20and%20compiling%20watchlists&descSize=12&descColor=8B6FBF&descAlignY=78&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
 
 <table>
 <tr>
 
+<!-- ╔══════ PANEL 1 · anime ══════╗ -->
 <td width="50%" align="center" valign="top">
-<h4>· for anime watchers ·</h4>
+<br/>
+<img src="https://img.shields.io/badge/ANIME-for%20anime%20watchers-C73E3A?style=for-the-badge&labelColor=1E1432" />
+<br/><br/>
 <img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.anime.svg"
      alt="AniList · Anime" width="100%" />
 </td>
 
+<!-- ╔══════ PANEL 2 · husbando shelf ══════╗ -->
 <td width="50%" align="center" valign="top">
-<h4>· the husbando shelf ·</h4>
+<br/>
+<img src="https://img.shields.io/badge/CHARACTERS-the%20husbando%20shelf-C0A0E8?style=for-the-badge&labelColor=1E1432" />
+<br/><br/>
 <img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.husbando.svg"
      alt="AniList · Husbando" width="100%" />
 </td>
@@ -367,36 +374,58 @@ the workspace is the gallery.
 </tr>
 <tr>
 
+<!-- ╔══════ PANEL 3 · manga ══════╗ -->
 <td width="50%" align="center" valign="top">
-<h4>· for manga readers ·</h4>
+<br/>
+<img src="https://img.shields.io/badge/MANGA-for%20manga%20readers-8B6FBF?style=for-the-badge&labelColor=1E1432" />
+<br/><br/>
 <img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/metrics/metrics.anilist.manga.svg"
      alt="AniList · Manga" width="100%" />
 </td>
 
+<!-- ╔══════ PANEL 4 · my boys ══════╗ -->
 <td width="50%" align="center" valign="top">
-<h4>· my boys · genshin + hsr ·</h4>
-
-<sub>genshin impact · loves by priority</sub><br/>
-
-<img src="https://genshin.jmp.blue/characters/wanderer/card" height="95" title="Wanderer"/><img src="https://genshin.jmp.blue/characters/kazuha/card" height="95" title="Kazuha"/><img src="https://genshin.jmp.blue/characters/gorou/card" height="95" title="Gorou"/><img src="https://genshin.jmp.blue/characters/venti/card" height="95" title="Venti"/><img src="https://genshin.jmp.blue/characters/lyney/card" height="95" title="Lyney"/>
-
-<img src="https://genshin.jmp.blue/characters/cyno/card" height="95" title="Cyno"/><img src="https://genshin.jmp.blue/characters/bennett/card" height="95" title="Bennett"/><img src="https://genshin.jmp.blue/characters/xiao/card" height="95" title="Aether"/><img src="https://genshin.jmp.blue/characters/freminet/card" height="95" title="Freminet"/>
-
 <br/>
+<img src="https://img.shields.io/badge/GACHA-my%20boys%20across%20worlds-6F4F8A?style=for-the-badge&labelColor=1E1432" />
+<br/><br/>
 
-<sub>honkai: star rail · loves by priority</sub><br/>
+<!-- genshin impact -->
+<img src="https://img.shields.io/badge/-genshin%20impact-1E1432?style=flat-square&logoColor=C73E3A" /><br/>
+<img src="https://genshin.jmp.blue/characters/wanderer/card" height="90" title="Wanderer"/><img src="https://genshin.jmp.blue/characters/kazuha/card" height="90" title="Kazuha"/><img src="https://genshin.jmp.blue/characters/gorou/card" height="90" title="Gorou"/><img src="https://genshin.jmp.blue/characters/venti/card" height="90" title="Venti"/><img src="https://genshin.jmp.blue/characters/lyney/card" height="90" title="Lyney"/>
 
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1313.png" height="95" title="Sunday"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1209.png" height="95" title="Yanqing"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1008.png" height="95" title="Arlan"/>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1312.png" height="95" title="Misha"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1213.png" height="95" title="Dan Heng · PT"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8001.png" height="95" title="Caelus"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1111.png" height="95" title="Luka"/>
+<!-- honkai: star rail -->
+<img src="https://img.shields.io/badge/-honkai%3A%20star%20rail-1E1432?style=flat-square&logoColor=C0A0E8" /><br/>
+<img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1313.png" height="90" title="Sunday"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1409.png" height="90" title="Phainon"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/1213.png" height="90" title="Dan Heng · PT"/><img src="https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image/character_preview/8001.png" height="90" title="Caelus"/>
+
+<br/><br/>
+
+<!-- love and deepspace -->
+<img src="https://img.shields.io/badge/-love%20and%20deepspace-1E1432?style=flat-square&logoColor=8B6FBF" /><br/>
+<!-- LADS has no public image API · upload 5 images to assets/lads/      -->
+<!-- naming: zayne.png, rafayel.png, sylus.png, xavier.png, caleb.png    -->
+<!-- recommended size: 512px tall, transparent or dark background         -->
+<!-- then uncomment the block below:                                      -->
+<!--
+<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/zayne.png" height="90" title="Zayne · Cardiac Surgeon · Ice"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/rafayel.png" height="90" title="Rafayel · Passionate Painter · Fire"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/sylus.png" height="90" title="Sylus · Onychinus Leader · Energy"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/xavier.png" height="90" title="Xavier · Deepspace Hunter · Light"/><img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/lads/caleb.png" height="90" title="Caleb · Childhood Friend"/>
+-->
+<sub>Zayne · Rafayel · Sylus · Xavier · Caleb</sub><br/>
+<sub><em>"if you have nowhere to go, you can stay with me."</em></sub>
 
 </td>
 
 </tr>
 </table>
 
+<br/>
 <sub>anime + manga panels auto-generated from AniList via lowlighter/metrics · shuffled daily</sub>
+<br/>
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1432,50:2A1B3D,100:1E1432&height=80&section=footer&text=&fontSize=1" width="100%" />
 </div>
 
 <br/>
