@@ -6,8 +6,8 @@
 <div align="center">
 
 <!-- ┌─────────────────────────── BANNER ─────────────────────────────────────┐ -->
-<img src="https://raw.githubusercontent.com/NuRichter/NuRichter/main/assets/banner.svg"
-     width="100%" alt="NuRichter · Wanderer of Code" />
+<img src="https://media1.tenor.com/m/xR0yv83wOIIAAAAC/kazuscara-hoyofair.gif"
+     width="100%" alt="KazuScara · HoyoFair" />
 
 <br/><br/>
 
