@@ -12,7 +12,9 @@
 <br/><br/>
 
 <!-- ┌───────────────────────── TYPING TAGLINE ───────────────────────────────┐ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=C0A0E8&center=true&vCenter=true&width=750&height=45&lines=wander+all+you+must%2C+i%27ll+find+you;%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC%E3%83%BB%E3%81%84%E3%81%96%E7%94%9F%E3%81%8D%E3%82%81%E3%82%84%E3%82%82;%2F%2F+BACKEND+%C2%B7+ML+%C2%B7+CYBERSECURITY+%C2%B7+SYSTEMS;I+break+things+to+understand+them+better;Richterize+The+Infinity+%E2%88%9E;somewhere+between+circuits+and+language+models;by+the+end+%C2%B7+find+me+where+the+wind+goes" alt="Typing SVG" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=C0A0E8&center=true&vCenter=true&width=750&height=45&lines=wander+all+you+must%2C+i%27ll+find+you;%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC%E3%83%BB%E3%81%84%E3%81%9A%E7%94%9F%E3%81%8D%E3%82%81%E3%82%84%E3%82%82;%2F%2F+BACKEND+%C2%B7+ML+%C2%B7+CYBERSECURITY+%C2%B7+SYSTEMS;I+break+things+to+understand+them+better;Richterize+The+Infinity+%E2%88%9E;somewhere+between+circuits+and+language+models;by+the+end+%C2%B7+find+me+where+the+wind+goes" alt="Typing SVG" />
+</div>
 
 <br/>
 
