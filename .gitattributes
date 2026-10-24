@@ -1,0 +1,2 @@
+# Signed bytes must stay byte-identical everywhere: no line-ending conversion.
+* -text

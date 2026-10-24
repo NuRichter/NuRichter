@@ -1,0 +1,16 @@
+Copyright (c) 2020-2026 NuRichter. All rights reserved.
+
+The contents of this repository (the README text, the "Diary Life" artwork in
+assets/diary, the sealed letter, and the page layout) are original works.
+
+You may view them on GitHub. GitHub's Terms of Service also let you fork this
+repository on GitHub. No other permission is granted: you may not copy, adapt,
+republish, or use this work (or a substantially similar imitation of it) as
+your own profile, website, or project.
+
+Authenticity can be checked with provenance/verify.py (Ed25519 signature) and
+provenance/manifest.json.ots (OpenTimestamps proof anchored in Bitcoin).
+
+Typefaces used to draw the artwork (La Belle Aurore, Road Rage, Nothing You
+Could Do) are licensed under the SIL Open Font License 1.1 by their authors;
+this notice does not claim them.

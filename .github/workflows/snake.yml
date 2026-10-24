@@ -23,12 +23,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Two output variants — light + dark — matched to the KazuScara palette.
-          # Dark variant uses Wanderer-purple snake on a near-void background;
-          # light variant uses Kazuha-crimson on a paper-white field.
+          # Diary Life palette: aged gold ink on charcoal (dark), bronze on bone paper (light).
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#C73E3A&color_dots=#EDE5DD,#F0C0BC,#D85A56,#A04948,#6B2421
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#C0A0E8&color_dots=#1E1432,#3A1A2E,#6F4F8A,#8B6FBF,#C0A0E8
+            dist/diary-snake.svg?color_snake=#87611F&color_dots=#E6DAC0,#D2BF94,#B39A66,#87611F,#5A4118
+            dist/diary-snake-dark.svg?color_snake=#E8DAB8&color_dots=#191713,#3A3226,#71644D,#A8874D,#C8A15D
 
       - name: Push generated assets to the output branch
         uses: crazy-max/ghaction-github-pages@v4

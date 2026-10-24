@@ -1,0 +1,57 @@
+name: Clone Finder
+
+# Weekly search of public GitHub code for copies of this diary:
+#  - the signing-key fingerprint printed in the README footer
+#  - hotlinks to the diary artwork
+# Hits (outside NuRichter's own repos) are listed in the run summary,
+# ready to back a DMCA notice together with /provenance.
+#
+# Needs a token for code search: secret CLONE_FINDER_TOKEN
+# (fine-grained PAT, public repositories read-only), falls back to METRICS_TOKEN.
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.CLONE_FINDER_TOKEN || secrets.METRICS_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const fp = fs.readFileSync('provenance/FINGERPRINT', 'utf8').trim();
+            const queries = [
+              `"${fp}"`,
+              `"NuRichter/NuRichter/main/assets/diary"`,
+              `"Diary Life" "never stop learning" "NuRichter"`,
+            ];
+            const hits = new Map();
+            for (const q of queries) {
+              try {
+                const res = await github.rest.search.code({ q, per_page: 100 });
+                for (const item of res.data.items) {
+                  if (item.repository.owner.login.toLowerCase() === 'nurichter') continue;
+                  hits.set(item.html_url, { repo: item.repository.full_name, query: q });
+                }
+              } catch (e) {
+                core.warning(`search failed for ${q}: ${e.message}`);
+              }
+              await new Promise(r => setTimeout(r, 7000)); // code search: 10 req/min
+            }
+            const rows = [...hits].map(([url, h]) => [h.repo, `<a href="${url}">file</a>`, h.query]);
+            await core.summary
+              .addHeading(`Clone Finder · ${rows.length} suspected cop${rows.length === 1 ? 'y' : 'ies'}`)
+              .addRaw(`Signing key fingerprint: <code>${fp}</code>`, true)
+              .addTable([[{data: 'repository', header: true}, {data: 'match', header: true}, {data: 'query', header: true}], ...rows])
+              .write();
+            if (rows.length) core.warning(`${rows.length} suspected copies found, see run summary`);

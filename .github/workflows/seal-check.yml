@@ -1,0 +1,41 @@
+name: Diary Seal
+
+# On every change to the diary:
+#  1. verify the Ed25519 signature over provenance/manifest.json and every file hash
+#  2. publish a Sigstore build-provenance attestation for the signed files
+#     (recorded in the public, append-only transparency log)
+
+on:
+  push:
+    branches: [main]
+    paths: ["README.md", "LICENSE", "assets/diary/**", "provenance/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+  attestations: write
+
+jobs:
+  seal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify Ed25519 signature
+        run: |
+          pip install --quiet cryptography
+          python provenance/verify.py
+
+      - name: Attest provenance (Sigstore)
+        uses: actions/attest-build-provenance@v2
+        with:
+          subject-path: |
+            README.md
+            provenance/manifest.json
+            assets/diary/**/*.svg

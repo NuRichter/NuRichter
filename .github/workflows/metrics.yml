@@ -19,7 +19,7 @@ name: NuRichter Metrics
 
 on:
   schedule:
-    # once daily at 00:00 WIB (17:00 UTC previous day)
+    # once daily at 17:00 UTC
     - cron: "0 17 * * *"
   workflow_dispatch:
 
